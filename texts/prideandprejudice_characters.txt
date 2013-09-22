@@ -1,0 +1,373 @@
+Elizabeth: 316
+Jane: 205
+Mr. Darcy: 170
+Lydia: 122
+Bingley: 90
+Mr. Collins: 89
+Darcy: 81
+Mrs. Bennet: 76
+Wickham: 73
+Longbourn: 68
+Lady Catherine: 67
+Mr. Bingley: 64
+Mr: 62
+Netherfield: 56
+Project Gutenberg: 54
+Mr. Bennet: 53
+Miss Bingley: 51
+Charlotte: 47
+Meryton: 44
+Kitty: 42
+Bennet: 42
+London: 42
+Mr. Wickham: 40
+Pemberley: 39
+Catherine: 38
+Mrs. Gardiner: 36
+Lizzy: 36
+Rosings: 36
+Miss: 34
+Bourgh: 33
+Hertfordshire: 31
+Miss Darcy: 28
+Sir William: 26
+Lucas: 25
+Miss Bennet: 24
+Mrs: 23
+Mary: 21
+Mrs. Collins: 19
+Foundation: 19
+Miss Lucas: 18
+Brighton: 18
+Derbyshire: 17
+Hunsford: 17
+Colonel Forster: 15
+Mr. Gardiner: 14
+Colonel Fitzwilliam: 14
+Saturday: 13
+Mrs. Phillips: 12
+Mrs. Hurst: 12
+Project: 12
+Maria: 12
+Fitzwilliam: 12
+Gutenberg: 12
+Kent: 12
+William: 11
+Colonel: 11
+Lambton: 10
+Mrs. Long: 10
+Lucases: 10
+Lady: 10
+Literary Archive: 9
+Tuesday: 9
+Eliza: 9
+Lady Lucas: 9
+Parsonage: 9
+Forster: 9
+Mrs. Forster: 9
+Georgiana: 9
+Sunday: 8
+United States: 8
+Caroline: 8
+Mrs. Jenkinson: 7
+Phillips: 7
+Miss Elizabeth: 7
+Miss Bennets: 7
+License: 7
+Gardiners: 6
+Scotland: 6
+Lucas Lodge: 6
+Gracechurch Street: 6
+Wednesday: 6
+Denny: 6
+Heaven: 6
+Christmas: 6
+George Wickham: 6
+Sir: 5
+Miss King: 5
+Charlotte Lucas: 5
+St. James: 5
+England: 4
+Park: 4
+Monday: 4
+Bingleys: 4
+Mrs. Younge: 4
+Lakes: 4
+Mr. Hurst: 4
+Archive Foundation: 3
+Bennets: 3
+Hill: 3
+Elizabeth Bennet: 3
+Rosings Park: 3
+Miss Eliza: 3
+Sir Lewis: 3
+Miss Lydia: 3
+God: 3
+Captain Carter: 3
+Prejudice: 3
+William Lucas: 3
+Ramsgate: 3
+Mr. Jones: 3
+Web: 3
+Jane Austen: 3
+Mr. Robinson: 2
+May: 2
+Longbourn House: 2
+Mrs. Reynolds: 2
+Pride: 2
+Anonymous Volunteers: 2
+Christian: 2
+House: 2
+Mrs. Annesley: 2
+November: 2
+Netherfield. The: 2
+Section: 2
+Longbourn. Elizabeth: 2
+Vanilla: 2
+Wickham. She: 2
+Maria Lucas: 2
+Phillipses: 2
+Mr. Phillips: 2
+Longbourn. Mr: 2
+Anne: 2
+Epsom: 2
+Grosvenor Street: 2
+Use: 2
+Mr. Denny: 2
+Collinses: 2
+North: 2
+United: 2
+Militia: 2
+Mary King: 2
+Netherfield. She: 2
+Newcastle: 2
+Clapham: 2
+Lady Anne: 2
+Mrs. Hill: 2
+General: 2
+Louisa: 2
+Michael: 2
+Eliza Bennet: 2
+Gardiner: 2
+Gouldings: 2
+Michaelmas: 2
+Jane. She: 2
+Hunsford Parsonage: 2
+Lord: 2
+Charles: 2
+Easter: 2
+Commerce: 1
+Scarborough: 1
+Gretna: 1
+Liverpool: 1
+South. She: 1
+Lydia. He: 1
+Netherfield House: 1
+Tuesday. The: 1
+Executive: 1
+Information About: 1
+Dr: 1
+Right Honourable: 1
+Oakham Mount: 1
+Miss Jane: 1
+Wickham! Imagine: 1
+Mississippi: 1
+Bingley. Having: 1
+Mr. Morris: 1
+Derbyshire. There: 1
+Cheapside: 1
+Mrs. Nicholls: 1
+Full Project: 1
+John: 1
+Jane. The: 1
+Terms: 1
+Director: 1
+Date: August: 1
+Pemberley. Put: 1
+Gracechurch: 1
+St: 1
+Hunsford Lane: 1
+Defect: 1
+Lodge: 1
+Archbishop: 1
+War Office: 1
+Donations: 1
+Friday, Saturday: 1
+Lydia. But: 1
+Elizabeth! What: 1
+April: 1
+Bath: 1
+Wickham. He: 1
+Scotch: 1
+Darcy. But: 1
+York: 1
+Lizzy. Mr: 1
+Newcastle. And: 1
+Refund: 1
+Peak: 1
+Great Britain: 1
+Dove Dale: 1
+Wickham. Brother: 1
+Chamberlayne: 1
+July: 1
+Scotland. Colonel: 1
+Hunsford. Such: 1
+Catherine, Sir: 1
+Date: June: 1
+Parsonage. Are: 1
+Rosings. It: 1
+Lord! And: 1
+February: 1
+Darcy. He: 1
+England. As: 1
+Wednesday Miss: 1
+Mrs. Darcy: 1
+Bennet. That: 1
+Westerham, Kent: 1
+Brighton. That: 1
+January: 1
+Austen: 1
+Wickham, Esq: 1
+Sections: 1
+Lucas. Her: 1
+Hertfordshire. In: 1
+Catherine. The: 1
+Bell: 1
+Miss Lucases: 1
+Epsom. All: 1
+Lady Metcalf: 1
+Netherfield. You: 1
+French: 1
+Pratt: 1
+Wickham. The: 1
+Longbourn. Everything: 1
+Reynolds: 1
+Derbyshire. In: 1
+Brighton. This: 1
+Parsonage House: 1
+Church: 1
+Thursday: 1
+Clapham. It: 1
+Stoke: 1
+Charlotte. Once: 1
+Service: 1
+Bourgh. Only: 1
+Wickham! Every: 1
+November, Mr: 1
+General Terms: 1
+Hursts: 1
+Harringtons: 1
+Edward: 1
+Derbyshire. His: 1
+Pen: 1
+Longbourn. There: 1
+George: 1
+Miss Watson: 1
+Gutenberg Literary: 1
+Meryton? Oh: 1
+Caroline. She: 1
+Sermons. Lydia: 1
+Darcy, Caroline: 1
+Meryton. The: 1
+Bingley! What: 1
+Mission: 1
+London Lydia: 1
+Nicholls: 1
+Barnet: 1
+Irish: 1
+Captain: 1
+Bingley. Her: 1
+Jane. Now: 1
+William Goulding: 1
+Kitty. Won: 1
+Hunsford. She: 1
+Mount: 1
+Rosings. Mr: 1
+Brighton. In: 1
+St. Clement: 1
+Rosings. To: 1
+Little Theatre: 1
+Lakes. How: 1
+Literary: 1
+The Times: 1
+Kent. They: 1
+London. They: 1
+Woods: 1
+Clarke: 1
+June. My: 1
+Street, Monday: 1
+Saturday. Rendered: 1
+Mrs. Bingley: 1
+Elizabeth, Kitty: 1
+Hill! My: 1
+London, Colonel: 1
+London, Mr: 1
+Bourgh? Are: 1
+Philips. And: 1
+Lizzy. Lizzy: 1
+Eastbourne: 1
+Harriet: 1
+Matlock: 1
+Italian: 1
+Meryton. She: 1
+Lizzy! Oh: 1
+Vingt: 1
+Caroline Bingley: 1
+Jane, Mr: 1
+North. It: 1
+Brighton! But: 1
+Wednesday. She: 1
+Jane. Though: 1
+Tuesday. It: 1
+The Courier: 1
+Hertfordshire. As: 1
+Elizabeth. These: 1
+September: 1
+Fordyce: 1
+Kitty. As: 1
+Ashworth: 1
+Gretna Green: 1
+Lydia. His: 1
+Fitzwilliam. He: 1
+Public Domain: 1
+Parsonage. There: 1
+Hatfield: 1
+Netherfield. He: 1
+Pemberley. But: 1
+Mr. Stone: 1
+Jane. But: 1
+Matlock, Chatsworth: 1
+Pemberley House: 1
+June: 1
+Netherfield. Such: 1
+Cambridge: 1
+Miss Pope: 1
+Monday, Mrs: 1
+Replacement: 1
+London. Well: 1
+Hertfordshire. Anything: 1
+Redistributing Project: 1
+Thursday. Will: 1
+Hunsford. Pray: 1
+Mrs. Wickham: 1
+Spanish: 1
+Lord! Sir: 1
+January. But: 1
+March: 1
+Mr. Fitzwilliam: 1
+Heaven! Brighton: 1
+Bakewell: 1
+Eliza? Do: 1
+Bingley. Jane: 1
+Forsters: 1
+Kympton: 1
+Internal: 1
+House. Elizabeth: 1
+London! My: 1
+Lake City: 1
+Clapham. If: 1
+October: 1
+Jane. No: 1
+Lizzy! But: 1
+Bourgh. You: 1
+Lydia. At: 1

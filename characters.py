@@ -1,17 +1,14 @@
 import re
-import pickle
 import os
 import collections
 
 title = input("Title of text file <title>.txt: ")
-f = open('texts/%(title)s.txt' % locals(),'r') #text of title
+f = open('texts/%(title)s.txt' % locals(),'r', encoding="utf-8") #text of title
 o = open('texts/%(title)s_characters.txt' % locals(),'w+') #matches
 text = f.read()
 
-'''
-matches = re.findall(r"(?<!. )\b[A-Z][a-z]+\b( [A-Z][a-z]+\b)?", text) # novel
-'''
-matches = re.findall(r"(?<=\n)\b[A-Z]+\b(?: [A-Z]+\b)?(?=\n)", text) # shakespearean formatted play
+matches = re.findall(r"(?<=[A-Za-z] )\b[A-Z][a-z]+\b(?:(?:. | )[A-Z][a-z]+\b)?", text) # general novel (only capital following another word)
+#matches = re.findall(r"(?<=\n)\b[A-Z]+\b(?: [A-Z]+\b)?(?=\n)", text) # shakespearean formatted play
 
 names = dict()
 for match in matches:

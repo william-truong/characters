@@ -1,0 +1,361 @@
+Beowulf: 116
+Grendel: 73
+Hrothgar: 64
+Higelac: 45
+Geatmen: 38
+Scyldings: 35
+God: 29
+Danemen: 24
+Geats: 24
+Danes: 22
+Heorot: 19
+Weders: 16
+Healfdene: 15
+Finn: 15
+Lord: 14
+Anglo: 12
+Danish: 11
+Ongentheow: 11
+Wielder: 11
+Hrethel: 10
+Frisians: 10
+He: 9
+Hygd: 9
+Ecgtheow: 9
+Unferth: 9
+Dane: 9
+King Hrothgar: 9
+Scyld: 9
+Geat: 8
+Breca: 8
+Wealhtheow: 8
+Eofor: 7
+Father: 7
+Geatman: 7
+English: 7
+Creator: 7
+Wiglaf: 7
+Hengest: 6
+Ohthere: 6
+Hrunting: 6
+Swedes: 6
+Heardred: 5
+Eanmund: 5
+Offa: 5
+Scylding: 5
+Wihstan: 5
+Ecglaf: 5
+Teutonic: 5
+Fate: 5
+Scylfing: 4
+Ingeld: 4
+Geatish: 4
+Hildeburg: 4
+Ruler: 4
+Heathobards: 4
+Glory: 4
+Sweden: 4
+His: 4
+War: 3
+Mother: 3
+Spear: 3
+Swedish: 3
+Scylfings: 3
+East: 3
+Frankmen: 3
+Fight: 3
+Sigemund: 3
+Daneland: 3
+Heaven: 3
+Jutemen: 3
+Dragon: 3
+Hrothulf: 3
+Eadgils: 3
+Froda: 3
+Ravenswood: 3
+Weder: 3
+Th: 3
+Heort: 3
+Death: 3
+All: 3
+Hrethling: 3
+Victory: 3
+Poems: 2
+Heregar: 2
+Heremod: 2
+Whale: 2
+Heatholaf: 2
+Fitela: 2
+Gratitude: 2
+Half: 2
+Almighty: 2
+Wulf: 2
+Elan: 2
+Gr: 2
+Swedemen: 2
+Halga: 2
+Messenger: 2
+Sea: 2
+Frisian: 2
+South: 2
+Congress: 2
+Friesland: 2
+Grdtvg: 2
+Wendels: 2
+Hama: 2
+Worship: 2
+Song: 2
+King Healfdene: 2
+West: 2
+Hugmen: 2
+King Higelac: 2
+Herebald: 2
+Sigmund: 2
+Cain: 2
+Cape: 2
+Franks: 2
+Oslaf: 2
+Brosinga: 2
+Wederish: 2
+Hun: 2
+Hoce: 2
+Geatland: 2
+Heathobard: 2
+Angles: 2
+Him: 2
+Garmund: 2
+Grein: 2
+Ingwins: 2
+Beowulf, Heremod: 1
+Heorot Grendel: 1
+Account: 1
+Scop: 1
+Cain. Dwells: 1
+Gepids: 1
+Ecgwela: 1
+Deserted: 1
+Finland: 1
+Hrethric: 1
+Wilfingish: 1
+Eagle: 1
+Ruling: 1
+Guthlaf: 1
+Geats Reach: 1
+Life: 1
+Wiglaf. He: 1
+Weders. Well: 1
+Brings: 1
+Poetry. London: 1
+Palace: 1
+Professors Francis: 1
+Scylding. Hankered: 1
+Scefing: 1
+Wilfings: 1
+Grendel. To: 1
+Moralizes: 1
+Brosingmen: 1
+Reminiscences: 1
+Justice. Thence: 1
+Angles. Known: 1
+Wife: 1
+Browning: 1
+Heaven. The: 1
+North Danes: 1
+Gleeman: 1
+King Heregar: 1
+Bright: 1
+Father Almighty: 1
+Danorum: 1
+Scyldings. Father: 1
+Traveller: 1
+Hugs: 1
+Wulfgar, Hrothgar: 1
+Higelac. Kills: 1
+Finnsburg: 1
+General Use: 1
+Narrates: 1
+World: 1
+Heorot. Congratulations: 1
+Banquet Continues: 1
+Forbach: 1
+Monster Grendel: 1
+King Sigemund: 1
+Danemen. Dead: 1
+Hrethmen! Thou: 1
+Hoard Carried: 1
+Poem: 1
+Dead Foes: 1
+Danes, Ingeld: 1
+Wonred: 1
+Eadgils. The: 1
+Daneman: 1
+Folcwalda: 1
+Last Battle: 1
+Frankish: 1
+Geatmen. Higelac: 1
+Wylfing: 1
+Abel: 1
+Words: 1
+Drape. Copenhagen: 1
+Grendel. Jahresbericht: 1
+Augsburg: 1
+Iliad. Beowulf: 1
+Good. Younger: 1
+Thrytho: 1
+Hreosna: 1
+Bitter Taunts: 1
+Ravenswood Ongentheow: 1
+North: 1
+Weird: 1
+One: 1
+Weohstan: 1
+Onela: 1
+Monsters: 1
+Grendel. Vanquishes: 1
+Goes: 1
+Taunts Beowulf: 1
+Johns Hopkins: 1
+Folk: 1
+Guardian: 1
+Hildeburg. At: 1
+The College: 1
+Wedergeats: 1
+Earth: 1
+Sleep: 1
+Labor: 1
+Heardred. Is: 1
+Great Mead: 1
+Fitela. His: 1
+Beowulf. The: 1
+Beanstan: 1
+Honor: 1
+Heming: 1
+Orosius: 1
+Glory. His: 1
+Fatal Struggle: 1
+Trusty: 1
+Scef: 1
+Wederchief: 1
+Lavishes Gifts: 1
+Heorot? Hast: 1
+William: 1
+Alfred: 1
+Weders. Wide: 1
+Finnsburg. London: 1
+Geats. Late: 1
+Hrothgar. Ruled: 1
+Wonred. Engaged: 1
+Mutual: 1
+Den: 1
+Finns: 1
+Hereric: 1
+Translations: 1
+Off: 1
+Jutland: 1
+Italian: 1
+Eormenric: 1
+Silences Unferth: 1
+Heyne: 1
+Oro: 1
+Eng: 1
+Vanquished: 1
+Deniga: 1
+Gummere: 1
+Finn. Some: 1
+High: 1
+Two Queens: 1
+Homeward Journey: 1
+Assistance: 1
+Old English: 1
+Anglosaxonica: 1
+Scopes Widsith: 1
+Proper Names: 1
+Heathoremes: 1
+Seeks: 1
+Vict: 1
+Glory. Woe: 1
+Angelsaxiske Digte: 1
+James: 1
+Burning: 1
+Plunders: 1
+Murderer: 1
+Receives Further: 1
+Scyld. They: 1
+Washington: 1
+History: 1
+Queen Wealhtheow: 1
+God; He: 1
+Freaware: 1
+Lombards: 1
+Office: 1
+French: 1
+Hrothgar. Her: 1
+Last Moments: 1
+Retrospect: 1
+Hondscio: 1
+Geats. After: 1
+Double: 1
+Kampf Beowulfs: 1
+Librarian: 1
+Beowulf. Halle: 1
+Hetwars. Gives: 1
+Phrases: 1
+Scyldings. Pass: 1
+Professor Garnett: 1
+Brosings: 1
+Hrethrel: 1
+Brondings: 1
+Swedes. He: 1
+Heorot. The: 1
+Hoard: 1
+Arnold: 1
+Successors: 1
+Battle: 1
+Parting: 1
+Adventures: 1
+Swerting: 1
+Earthmen: 1
+Kings: 1
+Latin: 1
+Hrethla: 1
+Lichtenheld: 1
+Sword: 1
+Though Aged: 1
+Kemble: 1
+University: 1
+Mary: 1
+Angelsachsen: 1
+Sad Story: 1
+Act: 1
+Hengeste: 1
+Armor: 1
+Swedelands: 1
+Wayland. Goes: 1
+Troopers: 1
+Seeks Grendel: 1
+Higelac; Ongentheow: 1
+Gothic: 1
+Weders. The: 1
+Sharp: 1
+Introduces Himself: 1
+Trophies: 1
+God Almighty: 1
+Finn Episode: 1
+Ring: 1
+Hetwars: 1
+Jutes. Marries: 1
+Hrothmund: 1
+Wolzogen: 1
+Witan: 1
+Deliverer: 1
+Beowulf. He: 1
+Finnsburg. Oxford: 1
+Helmingish: 1
+Lat: 1
+Friends: 1
+Weders, War: 1
+Saxon: 1
+Ness: 1
+Wyrd: 1
+Garmund. Marries: 1
+Hrothulf. Heorot: 1
