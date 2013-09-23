@@ -1,0 +1,3294 @@
+Frodo: 1171
+Gandalf: 921
+Sam: 732
+Bilbo: 624
+Aragorn: 542
+Pippin: 468
+Merry: 355
+Gollum: 285
+Gimli: 277
+Ring: 269
+Shire: 268
+Legolas: 238
+Men: 233
+Orcs: 221
+Faramir: 215
+Gondor: 209
+Elves: 207
+Thorin: 189
+Boromir: 180
+Mordor: 172
+Saruman: 169
+Rohan: 167
+Jomer: 161
+Strider: 157
+Thjoden: 148
+Elrond: 142
+City: 134
+Lord: 134
+Mountain: 130
+West: 128
+Company: 122
+Riders: 120
+North: 120
+Enemy: 115
+Sauron: 114
+Bree: 109
+Isengard: 107
+Ents: 102
+River: 100
+King: 98
+Denethor: 96
+Treebeard: 94
+Minas Tirith: 92
+Road: 91
+Sun: 89
+East: 89
+Gate: 84
+South: 79
+Rivendell: 78
+Bag End: 73
+Elf: 72
+Tom: 72
+Moria: 71
+Mark: 66
+Lady: 66
+Smaug: 65
+Balin: 64
+Smjagol: 60
+Sea: 60
+Lurien: 59
+Orthanc: 58
+Beregond: 57
+Master: 57
+Anduin: 55
+Baggins: 55
+Hobbits: 54
+Tower: 53
+Shadow: 53
+Forest: 52
+Jowyn: 52
+Moon: 52
+Isildur: 52
+Mr. Baggins: 51
+Beorn: 50
+Dwarf: 49
+Middle: 48
+Mirkwood: 47
+Galadriel: 46
+Great River: 45
+Bard: 45
+Dark Lord: 44
+Ugl: 43
+Mountains: 43
+Dead: 42
+Dale: 41
+Fangorn: 41
+House: 40
+Wormtongue: 40
+Bombur: 39
+Hobbiton: 38
+Shadowfax: 38
+Rohirrim: 37
+Elendil: 37
+Lake: 37
+Nazgyl: 36
+Helm: 35
+Stone: 35
+Dwarves: 35
+Deep: 35
+Misty Mountains: 34
+Hill: 34
+Gluin: 33
+Mr. Frodo: 33
+Celeborn: 32
+Took: 32
+Eye: 32
+Shagrat: 32
+Fili: 31
+Council: 31
+Edoras: 31
+Elvish: 30
+Elven: 30
+Haldir: 29
+Gaffer: 28
+Morgul: 27
+Butterbur: 27
+Wood: 27
+Shelob: 27
+Ithilien: 27
+Emyn Muil: 26
+Captains: 26
+Durin: 26
+Lothlurien: 26
+Precious: 26
+Dark Tower: 25
+Ford: 25
+Orc: 25
+Grishnbkh: 25
+Glorfindel: 25
+Bywater: 25
+Black Gate: 25
+Osgiliath: 25
+Buckland: 24
+Black Riders: 24
+Mr. Bilbo: 24
+Peregrin: 24
+Sting: 24
+Rider: 24
+Kili: 24
+Nine: 24
+Eorl: 23
+Barad: 23
+Eagles: 23
+Citadel: 23
+Dori: 22
+Ephel: 22
+Weathertop: 22
+Ent: 22
+Paths: 21
+Gildor: 21
+Kings: 21
+Dain: 20
+Great: 20
+William: 20
+Land: 20
+Mr. Butterbur: 20
+Grey: 20
+Elvenking: 20
+Goldberry: 20
+Dike: 20
+Spring: 20
+Wargs: 20
+Bridge: 20
+Bert: 20
+Pelennor: 20
+Entwash: 19
+Wise: 19
+Steward: 19
+Gorbag: 19
+Power: 19
+Cotton: 19
+Rauros: 19
+Chief: 19
+Dol Amroth: 19
+Houses: 19
+Isen: 19
+Wild: 19
+Nimrodel: 19
+Bill: 18
+Guard: 18
+Sackville: 18
+One: 18
+Barrow: 18
+Hornburg: 18
+Him: 18
+Lady Jowyn: 18
+Lugb: 18
+Warden: 18
+Old Forest: 18
+Arkenstone: 18
+Lady Galadriel: 17
+Mirror: 17
+Captain: 17
+Dunharrow: 17
+Three: 17
+Ranger: 17
+Mr: 17
+Gamgee: 17
+Sam Gamgee: 16
+White: 16
+Doom: 16
+Samwise: 16
+Silverlode: 16
+Rings: 16
+Meriadoc: 16
+Tom Bombadil: 16
+Imrahil: 16
+Westernesse: 16
+Gloin: 16
+Old: 15
+He: 15
+Man: 15
+Lonely Mountain: 15
+Maggot: 15
+Healing: 15
+Thror: 15
+Hbma: 15
+Cirith Ungol: 15
+Entwives: 15
+Fire: 15
+Sword: 15
+Minas Morgul: 15
+Nob: 15
+Bombadil: 15
+Ferny: 15
+Elder Days: 15
+Mithrandir: 14
+Black: 14
+Tooks: 14
+Sharkey: 14
+Lord Denethor: 14
+Rangers: 14
+Gates: 14
+Arathorn: 14
+Battle: 14
+Cross: 14
+Westfold: 14
+Black Rider: 14
+Darkness: 13
+Red Book: 13
+Dragon: 13
+Quest: 13
+June: 13
+Bofur: 13
+Brandybuck: 13
+May: 13
+Caradhras: 13
+Fords: 13
+Vale: 13
+Southfarthing: 13
+Old Took: 13
+Balrog: 13
+White Tower: 13
+Gil: 13
+Shirriffs: 13
+Greenway: 13
+Hall: 13
+Esgaroth: 12
+Bolger: 12
+Wilderland: 12
+Horse: 12
+Prince: 12
+Gap: 12
+Water: 12
+Amon Hen: 12
+Bane: 12
+Brandywine: 12
+Tol Brandir: 12
+Halflings: 12
+Southrons: 12
+Prince Imrahil: 12
+Great Goblin: 12
+Ringwraiths: 12
+Dernhelm: 12
+Downs: 11
+Carrock: 11
+Tirith: 11
+Third Age: 11
+Dwalin: 11
+Dbin: 11
+Meduseld: 11
+Halfling: 11
+Brandy Hall: 11
+Hobbit: 11
+White Mountains: 11
+End: 11
+Beren: 11
+Dark: 11
+Crickhollow: 11
+Tree: 11
+Mindolluin: 11
+Ioreth: 11
+Black Land: 11
+Lords: 10
+Lotho: 10
+Ferry: 10
+Lebennin: 10
+Mount Doom: 10
+Forest River: 10
+Brandybucks: 10
+Door: 10
+Oin: 10
+Day: 10
+Wizard: 10
+Rosie: 10
+Thain: 10
+Bilbo Baggins: 10
+Golden Wood: 10
+And: 10
+Mines: 10
+Hedge: 10
+Cair Andros: 10
+White Rider: 10
+Thrain: 10
+East Road: 10
+Burg: 10
+Marish: 10
+Gorgoroth: 10
+Ghvn: 9
+Isengarders: 9
+Galadhrim: 9
+It: 9
+Bagshot Row: 9
+Radagast: 9
+Khazad: 9
+Hold: 9
+One Ring: 9
+Minas: 9
+Bill Ferny: 9
+Big People: 9
+Bergil: 9
+The Hill: 9
+Michel Delving: 9
+Elfhelm: 9
+Young: 9
+Great Sea: 9
+Messenger: 9
+Snowmane: 9
+Deeping: 9
+Parth Galen: 9
+Morannon: 9
+Great Ring: 9
+Damrod: 9
+War: 9
+Sam. He: 9
+Harad: 9
+Elladan: 9
+Eorlingas: 9
+Misty: 9
+October: 9
+Gondolin: 8
+King Thjoden: 8
+Minas Ithil: 8
+Stewards: 8
+Shirriff: 8
+Ted: 8
+Elrohir: 8
+Lobelia: 8
+Thengel: 8
+Arwen: 8
+Lossarnach: 8
+Common Speech: 8
+Bag: 8
+Deal: 8
+Long Lake: 8
+Farmer Cotton: 8
+Huorns: 8
+Bucklebury: 8
+Dunland: 8
+Withywindle: 8
+Jomund: 8
+Bifur: 8
+Uruk: 8
+Mayor: 8
+Great Gate: 8
+Pelargir: 8
+Bagginses: 8
+Bruinen: 8
+March: 8
+Orodruin: 8
+Running River: 8
+Morgai: 8
+Erech: 8
+Bob: 7
+White Tree: 7
+Lord Faramir: 7
+Goblin: 7
+Halbarad: 7
+Harrowdale: 7
+The Water: 7
+Mablung: 7
+Autumn: 7
+Grnma: 7
+Anurien: 7
+His: 7
+Stock: 7
+Gamling: 7
+Eastfarthing: 7
+Coomb: 7
+Goblins: 7
+Grey Company: 7
+Field: 7
+Amroth: 7
+Sarn Gebir: 7
+Fredegar: 7
+Arnor: 7
+Wizards: 7
+Gwaihir: 7
+Rock: 7
+Argonath: 7
+Lamedon: 7
+White Hand: 7
+Gandalf. He: 7
+Dimrill Dale: 7
+Arod: 7
+Elbereth: 7
+Cirith Gorgor: 7
+Troll: 7
+Mr. Underhill: 7
+Mundburg: 7
+Kheled: 7
+Dead Marshes: 7
+Brandywine Bridge: 7
+Merry Brandybuck: 6
+Night: 6
+Broken: 6
+Ori: 6
+Eregion: 6
+Ruling Ring: 6
+Minas Anor: 6
+Willow: 6
+Last Homely: 6
+Nine Riders: 6
+Winter: 6
+Emyn: 6
+Gollum. He: 6
+Boss: 6
+Hollin: 6
+Tin: 6
+Ring. But: 6
+Wild Men: 6
+Morgul Vale: 6
+Master Samwise: 6
+Stars: 6
+Phial: 6
+Dwimorberg: 6
+Fair: 6
+Ungol: 6
+Frodo. He: 6
+Silmaril: 6
+Redhorn Gate: 6
+Wild Man: 6
+Pimple: 6
+Eriador: 6
+Archet: 6
+Cleft: 6
+Marshes: 6
+Seven: 6
+The Pony: 6
+Stinker: 6
+Quickbeam: 6
+Easterlings: 6
+Lord Aragorn: 6
+Entish: 6
+Thorin Oakenshield: 6
+Dark Years: 6
+Tuckborough: 6
+Teeth: 6
+Valley: 6
+Grey Havens: 6
+Imladris: 6
+Bearer: 6
+Northern: 6
+Woody End: 6
+Anborn: 6
+Wold: 6
+Summer: 6
+Front Gate: 6
+Umbar: 6
+North Kingdom: 6
+Barliman: 6
+Fatty: 6
+Celebrant: 6
+Harlond: 6
+Mirrormere: 6
+Caras Galadhon: 6
+Drogo: 6
+Shire. But: 6
+Oakenshield: 6
+Towers: 6
+Havens: 6
+Rose: 6
+Stones: 6
+King Elessar: 6
+Watchers: 5
+Haradrim: 5
+Midsummer: 5
+Frodo. They: 5
+Golden Hall: 5
+April: 5
+Stairs: 5
+Snaga: 5
+Cracks: 5
+Dark Power: 5
+White Council: 5
+Great Darkness: 5
+The Hobbit: 5
+North Wind: 5
+Erestor: 5
+Keys: 5
+September: 5
+Northerners: 5
+Great Smials: 5
+Row: 5
+Rammas: 5
+Northfarthing: 5
+Henneth Annyn: 5
+People: 5
+Whiteskins: 5
+Green Hills: 5
+Dimrill Stair: 5
+Appendix: 5
+Deeping Wall: 5
+Isengard. But: 5
+Ingold: 5
+Galdor: 5
+Erkenbrand: 5
+Ithil: 5
+Entmoot: 5
+Bregalad: 5
+High Elves: 5
+Pony: 5
+Loudwater: 5
+Shadows: 5
+Elfstone: 5
+Lockholes: 5
+Dol Guldur: 5
+Anbrion: 5
+Barrel: 5
+Big Folk: 5
+Riddermark: 5
+Folk: 5
+Greyflood: 5
+Belfalas: 4
+Sam. The: 4
+Elvenhome: 4
+Tookish: 4
+Mountain. But: 4
+Thjoden King: 4
+Worm: 4
+Ethir: 4
+Harry: 4
+Last Alliance: 4
+Dol: 4
+Don: 4
+Iron Hills: 4
+Hob: 4
+Lumpkin: 4
+The Green: 4
+Boffin: 4
+Nori: 4
+Beornings: 4
+Isenmouthe: 4
+She: 4
+Sammath Naur: 4
+Journey: 4
+Fellowship: 4
+Ravenhill: 4
+Edge: 4
+Mrs. Cotton: 4
+Days: 4
+Elder: 4
+Orcrist: 4
+Queen: 4
+Sandyman: 4
+West. But: 4
+Glamdring: 4
+Inn: 4
+City. Then: 4
+Fatty Lumpkin: 4
+Kingdom: 4
+Tale: 4
+Morthond: 4
+Eldamar: 4
+Ered Lithui: 4
+Tongue: 4
+Hallows: 4
+Lune: 4
+Hornblower: 4
+Brown Lands: 4
+Cerin Amroth: 4
+Red Arrow: 4
+Bilbo. They: 4
+Grimbold: 4
+Cormallen: 4
+Companions: 4
+Edrendil: 4
+Frodo Baggins: 4
+Sundering Seas: 4
+Ettenmoors: 4
+Five Armies: 4
+They: 4
+Necromancer: 4
+Party: 4
+Ered Nimrais: 4
+West. There: 4
+Guards: 4
+Dagorlad: 4
+Tindrock: 4
+Common Room: 4
+Rath Dnnen: 4
+Frogmorton: 4
+Gladden Fields: 4
+Brandywine River: 4
+Rohan. And: 4
+Snowbourn: 4
+Stoors: 4
+Windlord: 4
+Rapids: 4
+Ring. The: 4
+Southron: 4
+Proudfoot: 4
+Mortal Men: 4
+Dr: 4
+Western Seas: 4
+Cnrdan: 4
+Gondor. And: 4
+Woodhall: 4
+Aragorn. He: 4
+Heir: 4
+The Prancing: 4
+Chamber: 4
+Paladin: 4
+Mazarbul: 4
+Southern: 4
+Star: 4
+East Wind: 4
+Harfoots: 4
+New Year: 4
+Window: 4
+Man Willow: 4
+Yellow Face: 4
+Thrur: 4
+Face: 3
+Bolg: 3
+Watcher: 3
+Shire. The: 3
+Nain: 3
+Fiery Mountain: 3
+Frodo. Sam: 3
+Isengrim: 3
+Hasufel: 3
+Fields: 3
+Ann: 3
+Uin: 3
+Robin: 3
+Staddle: 3
+Nan Curunnr: 3
+Valar: 3
+Farmer Maggot: 3
+Pinnath Gelin: 3
+East. The: 3
+Thing: 3
+Dawn: 3
+Dwimordene: 3
+Merry. The: 3
+Mouth: 3
+Hirgon: 3
+Delving: 3
+Red Eye: 3
+Mr. Peregrin: 3
+Gimli. He: 3
+Pity: 3
+Far Downs: 3
+Three Rings: 3
+Merry. It: 3
+Golden Perch: 3
+Nibs: 3
+Desolation: 3
+Fangorn Forest: 3
+Ecthelion: 3
+Thjoden Thengel: 3
+River. The: 3
+Mr. Drogo: 3
+Long: 3
+Belladonna Took: 3
+Starkhorn: 3
+Fountain: 3
+Heart: 3
+Tower Hills: 3
+Book: 3
+Will Whitfoot: 3
+Fredegar Bolger: 3
+Westmarch: 3
+Number: 3
+King Jomer: 3
+Brego: 3
+Five: 3
+Oliphaunt: 3
+Back Again: 3
+Queen Arwen: 3
+Side: 3
+Realm: 3
+Otho: 3
+Cottons: 3
+Black Shadow: 3
+Moot: 3
+Years: 3
+Westfarthing: 3
+Wednesday: 3
+Court: 3
+Bucklebury Ferry: 3
+Mr. Brandybuck: 3
+Lonely: 3
+Year: 3
+Merry. They: 3
+Eastern: 3
+Shadow Host: 3
+Bucklanders: 3
+Fornost: 3
+Terror: 3
+Marshal: 3
+West Wind: 3
+Thursday: 3
+Udyn: 3
+Stonewain Valley: 3
+Silent Watchers: 3
+Elessar: 3
+Naith: 3
+Elanor: 3
+Elwing: 3
+Ciril: 3
+Voice: 3
+Burglar: 3
+Saruman. It: 3
+Shire. He: 3
+Hoarwell: 3
+Waymeet: 3
+Skinbark: 3
+Ted Sandyman: 3
+Entings: 3
+Boffins: 3
+Third Company: 3
+Ilmarin: 3
+Stybba: 3
+High Pass: 3
+First: 3
+Bombadillo: 3
+Sirannon: 3
+Third Marshal: 3
+Amon: 3
+Monday: 3
+Isildur Elendil: 3
+Amon Don: 3
+Hal: 3
+White Lady: 3
+Hand: 3
+Landroval: 3
+Baldor: 3
+Underhills: 3
+Mountain. It: 3
+Nameless Land: 3
+Chubb: 3
+Angmar: 3
+Thrihyrne: 3
+Last: 3
+Forlong: 3
+Bowman: 3
+Mount Mindolluin: 3
+Corsairs: 3
+Enemy. But: 3
+Mearas: 3
+Tharbad: 3
+Gondor. But: 3
+Rhyn: 3
+Guthlbf: 3
+Crack: 3
+Mordor. Not: 2
+Gandalf? He: 2
+Uncle Bilbo: 2
+Lurien. Then: 2
+Gandalf. Then: 2
+Common Tongue: 2
+Chubbs: 2
+Mardil: 2
+Passing: 2
+Running: 2
+Mercy: 2
+Westron: 2
+World: 2
+Second: 2
+Black Years: 2
+Passage: 2
+Mounds: 2
+Farthings: 2
+Wraith: 2
+Haunted Mountain: 2
+Mugwort: 2
+Orthanc. So: 2
+Yule: 2
+Peregrin Took: 2
+Captain Faramir: 2
+Second Age: 2
+Henneth: 2
+Black Men: 2
+Sarn Ford: 2
+Uruks: 2
+Gilthoniel: 2
+Buckland. But: 2
+Frodo. There: 2
+Warg: 2
+Light: 2
+Fangorn. Legolas: 2
+Forbidden Pool: 2
+Amon Syl: 2
+City. There: 2
+Ents. There: 2
+Arvedui: 2
+Foe: 2
+Elrond. For: 2
+Pippin. The: 2
+Scouring: 2
+Mathom: 2
+Knife: 2
+Bywater Road: 2
+Golden: 2
+Power. It: 2
+Barley: 2
+Green: 2
+Western: 2
+Djorwine: 2
+Elrond. If: 2
+Green Dragon: 2
+King Brand: 2
+Baranduin: 2
+White Downs: 2
+Elves. And: 2
+Gondor, Boromir: 2
+History: 2
+Lair: 2
+Dark Land: 2
+Enemy. Yet: 2
+Eressla: 2
+Toby: 2
+Woody: 2
+Bombadil, Tom: 2
+Third: 2
+Frodo. Frodo: 2
+Bullroarer: 2
+Bound: 2
+City. But: 2
+Ents. They: 2
+Sam. It: 2
+Walls: 2
+Fangorn. But: 2
+Anduin. At: 2
+East Wall: 2
+Men. But: 2
+Herbs: 2
+Palantnr: 2
+Chetwood: 2
+Thrain, King: 2
+Longbottom: 2
+Jetsam: 2
+Sign: 2
+Westfold Vale: 2
+Thangorodrim: 2
+Wild. It: 2
+Erebor: 2
+Twenty: 2
+The Tale: 2
+Rimmon: 2
+Folde: 2
+Siege: 2
+Forest. The: 2
+Angbor: 2
+Sneak: 2
+Map: 2
+Mordor. We: 2
+Eve: 2
+Entwade: 2
+Fallohides: 2
+Fatty Bolger: 2
+Silverlode. The: 2
+Falls: 2
+Lob: 2
+Rivendell. We: 2
+Thranduil: 2
+Gross: 2
+Pyre: 2
+Balm: 2
+The: 2
+Thorin. It: 2
+Leaflock: 2
+West. Legolas: 2
+Glittering Caves: 2
+North Moors: 2
+Morgulduin: 2
+Shire. There: 2
+Onodrim: 2
+Orcs. But: 2
+Elrond Halfelven: 2
+Grey Mountains: 2
+Undertowers: 2
+Black Hand: 2
+Mill: 2
+Conspiracy Unmasked: 2
+Captain. He: 2
+Lone: 2
+Herblore: 2
+Angband: 2
+Enemy. The: 2
+Longbottom Leaf: 2
+Lhaw: 2
+Orthanc. The: 2
+Greyhame: 2
+Big Man: 2
+Methedras: 2
+Dimrill: 2
+Amon Lhaw: 2
+Thorin. They: 2
+Country: 2
+Tim: 2
+Faramir, Captain: 2
+Nameless One: 2
+Wraiths: 2
+Tobold: 2
+Horn: 2
+Old Ent: 2
+Anor: 2
+Silver Swan: 2
+Silver Tree: 2
+Men. For: 2
+Under: 2
+Storm: 2
+Redhorn: 2
+Pipe: 2
+Bay: 2
+Lore: 2
+Ordering: 2
+North. The: 2
+Wide World: 2
+Buck Hill: 2
+Elbereth! Gilthoniel: 2
+First Hall: 2
+Water Hot: 2
+Old Road: 2
+Gandalf. Bilbo: 2
+Boromir. He: 2
+Celebdil: 2
+Mordor. But: 2
+North. In: 2
+Frodo. His: 2
+Limlight: 2
+Fanuidhol: 2
+Fear: 2
+Ring. He: 2
+North Road: 2
+Grey Pilgrim: 2
+Lord Celeborn: 2
+Hither Shore: 2
+Frodo. It: 2
+Orofarnl, Lassemista: 2
+South Ithilien: 2
+Sons: 2
+Nen Hithoel: 2
+Holman: 2
+Bifur, Bofur: 2
+Mordor. For: 2
+Aragorn. There: 2
+Legolas. The: 2
+Merry. He: 2
+Lord Mithrandir: 2
+Closed: 2
+Buckland Gate: 2
+Meetings: 2
+Chapter: 2
+Pippin. He: 2
+Deputy Mayor: 2
+Jothain: 2
+Ravenhill. There: 2
+Andy: 2
+Imlad Morgul: 2
+Faramir. And: 2
+Hornburg. The: 2
+Short Cut: 2
+Gondor. They: 2
+Saruman. That: 2
+Rivendell. That: 2
+Roll: 2
+Tirion: 2
+Gandalf. But: 2
+Seeing: 2
+Rath: 2
+Sunday: 2
+King! Thjoden: 2
+Good: 2
+Rivendell. It: 2
+Isengard. He: 2
+Ride: 2
+The Rules: 2
+Orthanc. But: 2
+Dorwinion: 2
+River Running: 2
+Evenstar: 2
+Of: 2
+On: 2
+Inglorion: 2
+Grey Wanderer: 2
+East. As: 2
+Outsiders: 2
+Beater: 2
+Frodo. The: 2
+Grubbs: 2
+Dread: 2
+Gollum. Then: 2
+Shire. You: 2
+Wind: 2
+Choices: 2
+Iarwain: 2
+Muster: 2
+Trolls: 2
+Long Cleeve: 2
+Common: 2
+Hobbiton. They: 2
+Dead Men: 2
+Aglarond: 2
+Past: 2
+Laurelindurenan: 2
+Orthanc. It: 2
+Ring Goes: 2
+Gandalf. The: 2
+Mr. Merry: 2
+Hornburg. There: 2
+South Wind: 2
+Great Rings: 2
+Sauron. They: 2
+Silvertine: 2
+Isengard. The: 2
+Rammas Echor: 2
+Thrbin: 2
+Finding: 2
+Tall: 2
+Outlands: 2
+Nargothrond: 2
+Firienfeld: 2
+Girion: 2
+Pelennor Fields: 2
+Her: 2
+Fenmarch: 2
+Sea. There: 2
+Eastemnet: 2
+Mordor. The: 2
+Dead. But: 2
+Underhill: 2
+The Lord: 2
+Gate. It: 2
+Tom Cotton: 2
+High Up: 2
+Durthang: 2
+Narsil: 2
+Rules: 2
+Windfola: 2
+Smjagol. He: 2
+Last Debate: 2
+Wellinghall: 2
+Ringwraith: 2
+Breaking: 2
+Lurien. And: 2
+Greenfields: 2
+Mordor. He: 2
+Morgul Pass: 2
+Death Down: 2
+Tol: 2
+Great Gates: 2
+Bounders: 2
+Beleriand: 2
+Mithlond: 2
+Company. He: 2
+Fimbrethil: 2
+West. Gollum: 2
+Nine Walkers: 2
+White Towers: 2
+Thror King: 2
+Aragorn. But: 2
+Enemy. Even: 2
+Masters: 2
+Dunlendings: 2
+Pool: 2
+Winged Messenger: 2
+North. He: 2
+Saruman. Who: 2
+Dnnen: 2
+Hobbiton Road: 2
+Departure: 2
+Bucklander: 2
+Wall: 2
+Fallohide: 2
+Nimloth: 2
+Opens: 2
+Valinor: 2
+Black Captain: 2
+Variags: 2
+Will: 2
+Burden: 2
+Elrond. There: 2
+Road. At: 2
+Wolf: 2
+Huorn: 2
+Morgul Valley: 2
+Lampwrights' Street: 2
+Waste: 2
+Free: 2
+Doriath: 2
+Mirkwood. But: 2
+Frodo. And: 2
+Mushrooms: 2
+Flanor: 2
+Eagle: 2
+Gamgees: 2
+Osgiliath. There: 2
+Zirak: 2
+Mr. Lotho: 2
+Andros: 2
+Galadriel. He: 2
+Silent Street: 2
+Hayward: 2
+Barahir: 2
+New Row: 2
+Thjodred: 2
+Reward: 2
+Celebrnan: 2
+Master Gorbadoc: 2
+Bilbo. But: 2
+Carach Angren: 2
+Southerner: 2
+Mordor. Well: 2
+Ernil: 2
+Tower. It: 2
+Seat: 2
+Elbereth Gilthoniel: 2
+Swan: 2
+Closed Door: 2
+Taming: 2
+Frodo. At: 2
+Saturday: 2
+Hamfast: 2
+Stewed Rabbit: 2
+High: 2
+Age: 2
+Were: 2
+Duilin: 2
+Noman: 2
+Fair Folk: 2
+Sea. The: 2
+North Downs: 2
+Nan: 2
+Combe: 2
+Halifirien: 2
+Men. It: 2
+Tasarinan: 2
+Lidless Eye: 2
+West. They: 2
+West. Then: 2
+Thingol: 2
+Tomnoddy: 2
+Great Eye: 2
+Ring. We: 2
+Egladil: 2
+Partings: 2
+Stair: 2
+Langstrand: 2
+Her Ladyship: 2
+Fundin: 2
+Blade: 2
+Northmen: 1
+Proudfoots: 1
+Fallohidish: 1
+Trolls. We: 1
+Parth: 1
+Nameless Enemy: 1
+Men. The: 1
+Over: 1
+Halflings. We: 1
+Rivendell, Gondor: 1
+Lord Saruman: 1
+Gandalf? Of: 1
+Pippin. Putting: 1
+Old Mr: 1
+Council. Your: 1
+White Company: 1
+Spiders: 1
+Sun. If: 1
+Brockenbores: 1
+Greyflood. After: 1
+Aldaluml: 1
+Gandalf. Try: 1
+Hobbits, Dwarves: 1
+Nimrodel. Since: 1
+Deep. There: 1
+Dearth: 1
+Galadriel. They: 1
+Swordsman: 1
+North. But: 1
+Buckland. My: 1
+Enemy. High: 1
+Withered Heath: 1
+Frodo! Pippin: 1
+Gwaihir. If: 1
+Enemy. For: 1
+Elves. They: 1
+East Men: 1
+Angmar. This: 1
+Carc. Carc: 1
+Elves. Then: 1
+Key: 1
+Isengard. Their: 1
+Long Marshes: 1
+Fathers: 1
+Curunnr: 1
+Sea. That: 1
+Nazgyl? Has: 1
+Edrendil Elenion: 1
+South, Haradrim: 1
+Lurien. But: 1
+Enemy. Not: 1
+Anduin. Now: 1
+Orthanc? Very: 1
+Company. Clearly: 1
+Woods: 1
+Wise, Saruman: 1
+Moontower: 1
+North Stair: 1
+South Kingdom: 1
+Kings. And: 1
+Seer: 1
+Messrs. Grubb: 1
+Buckland. No: 1
+Nanduhirion: 1
+First Shirriff: 1
+Gondor. Are: 1
+Assaulting Gate: 1
+Isle: 1
+Melui: 1
+Valimar. Maybe: 1
+Unnamed: 1
+Smjagol. Don: 1
+Whoa: 1
+Common Language: 1
+Yale: 1
+Hot Water: 1
+Luni: 1
+Even: 1
+Gondor! We: 1
+Shire. Remember: 1
+Ancient World: 1
+Ever: 1
+Burrows: 1
+Shire. Their: 1
+Gandalf. Instead: 1
+Fell Rider: 1
+Mordor. From: 1
+Bilbo. Yet: 1
+Golden House: 1
+Arathorn, Elendil: 1
+Moria. But: 1
+Sea. He: 1
+Laurelindurenan! That: 1
+Orcs. From: 1
+Legolas. For: 1
+Herubrand, Horn: 1
+Seen: 1
+Kili? Here: 1
+Shadowmere: 1
+Mr. Gandalf: 1
+Great Eagle: 1
+Folca: 1
+Faces: 1
+Ossiriand: 1
+Elf. On: 1
+North, South: 1
+South. Everything: 1
+Haven: 1
+Esgalduin: 1
+East End: 1
+Stinker Slinker: 1
+Enemy. There: 1
+Bom: 1
+Mugworts: 1
+Stoningland: 1
+Caverns: 1
+Ettendales: 1
+North. Tidings: 1
+Miss Melilot: 1
+Leave: 1
+Preciouss. Give: 1
+Lotho? Whatever: 1
+Jowyn, Lady: 1
+Precious? Does: 1
+Runes: 1
+Men. Upon: 1
+River. Don: 1
+Enting: 1
+Steward Faramir: 1
+Bill. Not: 1
+Tom, Tom: 1
+Hill. In: 1
+Mrs. Bungo: 1
+Nazgyl Lord: 1
+Edrnur: 1
+Neldoreth. There: 1
+Dale. These: 1
+Gloin. They: 1
+Precious. Thieves: 1
+Frodo, Fatty: 1
+Rivendell. And: 1
+Greatest: 1
+Tirith. But: 1
+Tom. Yet: 1
+Black Gates: 1
+Mountain. Two: 1
+Strong Men: 1
+Fords. As: 1
+Moria. And: 1
+Weathertop. There: 1
+Bridgefields: 1
+Slinker: 1
+Bracegirdle: 1
+Rivendell. On: 1
+Mr Bilbo: 1
+Gandalf. They: 1
+Gondor. Say: 1
+Gbrulf: 1
+Lair. Out: 1
+Longbottom. The: 1
+East. He: 1
+Ring! The: 1
+Better: 1
+Black Breath: 1
+Gundabad: 1
+Bracegirdles: 1
+Eve. Splendid: 1
+Four Farthings: 1
+Deputy: 1
+Saruman. Also: 1
+Downlands: 1
+Gimli! No: 1
+Party Tree: 1
+Faramir Ithilien: 1
+One. And: 1
+Harfoot: 1
+Cirith Ungo: 1
+Dwarf. If: 1
+Pippin. Mr: 1
+Cirdan: 1
+Delving. The: 1
+Legolas. Then: 1
+Kin. For: 1
+Smjagol. Yes: 1
+Legolas. They: 1
+Slowly: 1
+South. Instead: 1
+Blessed Realm: 1
+Withered Tree: 1
+Daddy Twofoot: 1
+Three Houses: 1
+Mat Heathertoes: 1
+Pass: 1
+Southlands: 1
+Haunted Pass: 1
+Renewer: 1
+North. Soon: 1
+Meriadoc. Though: 1
+Djor: 1
+Morgoth: 1
+Bree, The: 1
+Strider. Then: 1
+Narrow Ice: 1
+Home: 1
+Water. Soon: 1
+Glorfindel. The: 1
+Wetwang: 1
+Isengard! Though: 1
+Precious. But: 1
+Naith. Few: 1
+Saddle: 1
+Men. Still: 1
+Red: 1
+Hobbiton! Folk: 1
+Straight Stair: 1
+Breath: 1
+Mordor. Below: 1
+Shire. Sam: 1
+Merethrond: 1
+Precious. Good: 1
+Lord Boromir: 1
+Spring. You: 1
+Mr Peregrin: 1
+Lurien: Frodo: 1
+Mount: 1
+Gandalf: Then: 1
+Miss Primula: 1
+West. Looking: 1
+Cleft, Cirith: 1
+Mound: 1
+Norland: 1
+Dale. Approach: 1
+Men! To: 1
+Standing Silence: 1
+Banquets: 1
+Dale. Some: 1
+Ancalagon: 1
+Gondor. We: 1
+Sickle: 1
+Peregrin! He: 1
+Radbug: 1
+Brandybuck. She: 1
+Thorondor: 1
+East. And: 1
+Sam, Pippin: 1
+Nenya: 1
+Black Pit: 1
+Trees. Who: 1
+Deep. Aragorn: 1
+Celebrimbor: 1
+Dead City: 1
+Bolgers: 1
+Elrond. Evidently: 1
+West. The: 1
+Thrice: 1
+Ring. In: 1
+Mines? For: 1
+High City: 1
+Dwarf. Elves: 1
+Gandalf! Half: 1
+Gathering: 1
+Sluggard: 1
+Black Stone: 1
+Great Ships: 1
+Note: 1
+Eorl. And: 1
+Calenardhon: 1
+Drogo. Go: 1
+Lady. They: 1
+Valandil, Isildur: 1
+Treebeard. The: 1
+Nine Servants: 1
+Orthanc. There: 1
+Lost: 1
+Gate. There: 1
+Southwest: 1
+Stormcrow? Lbthspell: 1
+Birthday: 1
+Galadriel. Did: 1
+Wood. Forty: 1
+Saruman? But: 1
+Shire. Three: 1
+Shadow. Of: 1
+High Nazgyl: 1
+Road. Their: 1
+Gram: 1
+East. On: 1
+Little People: 1
+Edrendil. And: 1
+Westernesse. But: 1
+Old Words: 1
+Mordor. One: 1
+Elder Kindred: 1
+Meneldor: 1
+Weathertop. Crush: 1
+Sun. She: 1
+White Crown: 1
+River. He: 1
+Bob! Ah: 1
+Northern Men: 1
+Phial Frodo: 1
+Mount Gram: 1
+Thank: 1
+Dale. Dain: 1
+Elfstone. They: 1
+The Took: 1
+Many Colours: 1
+Gimli. In: 1
+Power. He: 1
+Mordor. Cruel: 1
+Lobelia. How: 1
+Scatha: 1
+Undumiel: 1
+Troop: 1
+Ljofa: 1
+Party Field: 1
+West. Far: 1
+Clouds Burst: 1
+Holbytla: 1
+Gollum. Before: 1
+Master Elrond: 1
+Wild Wood: 1
+Gandalf Greyhame: 1
+Udyn. In: 1
+Gate. Guessing: 1
+Fill: 1
+Valimar! Farewell: 1
+High Kindred: 1
+Mirkwood. Then: 1
+Gothmog: 1
+Pheriain: 1
+High Hay: 1
+Rethe: 1
+Grimbeorn: 1
+Ring. Let: 1
+Carc: 1
+Mordor. Though: 1
+Care: 1
+Captain Frodo: 1
+Westron Speech: 1
+Ringwinner: 1
+Citadel. Then: 1
+Calamities: 1
+North Gandalf: 1
+Engagement Tablet: 1
+Forest. Sam: 1
+Faramir. Less: 1
+Baranor: 1
+Middle Days: 1
+Autumn. Still: 1
+Gate. So: 1
+High Warden: 1
+Information: 1
+Eagles. He: 1
+Doom. Gandalf: 1
+Havens. Though: 1
+Hildinyar: 1
+Gore: 1
+Smaug. It: 1
+Ya: 1
+Tower. For: 1
+Bard! King: 1
+Isengard. That: 1
+Table: 1
+Trees. No: 1
+Smaug. In: 1
+Shire. Neither: 1
+Gollum. We: 1
+Great Eagles: 1
+Precious. Nasty: 1
+City. Less: 1
+Evening Star: 1
+Bribing Guards: 1
+Moot. Hm: 1
+Orcs. Now: 1
+Hot: 1
+Tree. His: 1
+Wights: 1
+Lotho Pimple: 1
+Tarmenel: 1
+Neekerbreekers: 1
+Ungol? Morgul: 1
+Ents. It: 1
+Enemy. That: 1
+Westgate. The: 1
+Mordor, Saruman: 1
+Old Mill: 1
+Havens, Sam: 1
+Merry. There: 1
+Adamant: 1
+Orthanc. Saruman: 1
+Cob: 1
+Himself. That: 1
+Pippin. Two: 1
+Firienwood: 1
+Gollum. Presently: 1
+Sting. You: 1
+Enemy. Indeed: 1
+Sunless Year: 1
+Him! He: 1
+Denethor. The: 1
+Sunlands: 1
+December: 1
+Southward Road: 1
+Eastfold: 1
+Gluin! It: 1
+Jolly Cotton: 1
+Boromir. His: 1
+Nazgyl. He: 1
+Carrock. At: 1
+Dimholt. But: 1
+Front Porch: 1
+Sancho Proudfoot: 1
+Master Gandalf: 1
+Quickbeam. And: 1
+Unexpected Party: 1
+Last Stage: 1
+Rauros. But: 1
+Brown: 1
+Maggot. On: 1
+Fords. Long: 1
+Gondor. Fair: 1
+Men, Legolas: 1
+Enemy. Bless: 1
+Near: 1
+Cousin Brandybuck: 1
+Pelennor. And: 1
+Precious? How: 1
+Chetwood. Lying: 1
+Free Lords: 1
+Merry. But: 1
+Caradhras. He: 1
+Somebody: 1
+Bergil Beregond: 1
+Earth. At: 1
+Master Merry: 1
+All Birds: 1
+Gate. No: 1
+Host: 1
+Barrows. He: 1
+Wood! She: 1
+Whitfurrows: 1
+Night! Fair: 1
+Wilderness: 1
+Gimli. For: 1
+Gondor. Choose: 1
+Sam. Frodo: 1
+The Fall: 1
+Sam. That: 1
+Sam Ford: 1
+Dwarves. But: 1
+Causeway Forts: 1
+Ithilien. But: 1
+Nori. Poor: 1
+Coomb. The: 1
+Lorien: 1
+Front: 1
+Ithilien. Green: 1
+Ladyship? When: 1
+Great Wood: 1
+Company. Yet: 1
+Citadel. The: 1
+Exiles: 1
+Green Hill: 1
+Calacirian: 1
+Elves? Very: 1
+Edoras. Saruman: 1
+East, South: 1
+Woodhall. It: 1
+Midgewater: 1
+Argeleb: 1
+Mighty: 1
+Long List: 1
+River. It: 1
+Shadowfax: Shadowfax: 1
+Iorlas. Still: 1
+Overhill: 1
+Boromir. And: 1
+Naught: 1
+Mordor! But: 1
+Took Line: 1
+Frodo. All: 1
+Far Harad: 1
+Ashen Mountains: 1
+Gollum. Therefore: 1
+Council. We: 1
+Gorhendad Oldbuck: 1
+Wilderland. Frodo: 1
+Fangorn, Gimli: 1
+Precious? It: 1
+City. And: 1
+Men. Seven: 1
+Gol: 1
+Uin. We: 1
+Bridge. There: 1
+Northern Fences: 1
+Rivendell, Mr: 1
+Seven Seeing: 1
+Harad. Curse: 1
+Horsemaster. Long: 1
+Gate? Or: 1
+Sorrow: 1
+Long Winter: 1
+Biter: 1
+Dym: 1
+Elf. Think: 1
+Wormtongue. His: 1
+Faramir, Prince: 1
+Stormcrow: 1
+Holiday: 1
+Breelanders: 1
+Bonfire: 1
+Folcwine: 1
+Pilgrim Grey: 1
+Chetwood. The: 1
+Aldor: 1
+Riders. And: 1
+Baggins! It: 1
+Worm. Eorl: 1
+The Old: 1
+Firstborn. He: 1
+Galathilion: 1
+Pony. Barliman: 1
+Evernight: 1
+Grubb: 1
+Blue: 1
+Sam, Sam: 1
+Hidden Land: 1
+Withywindle. The: 1
+Crickhollow. He: 1
+Boromir! From: 1
+Rule: 1
+Moria. He: 1
+Trees! But: 1
+Gates. Come: 1
+Party Business: 1
+Took, Peregrin: 1
+North! Was: 1
+Wizards. They: 1
+Leaf: 1
+Derndingle: 1
+Mistress Lobelia: 1
+Rammas. All: 1
+Anduin. But: 1
+Eldar: 1
+Winding Stair: 1
+Mistress: 1
+Isengarders. One: 1
+Precious. The: 1
+Thorin. And: 1
+River Silverlode: 1
+Shire. Whether: 1
+Pheriannath: 1
+Strider. The: 1
+Lobelia. Pippin: 1
+Galadhrim! And: 1
+Moon! And: 1
+Shire. And: 1
+Gondor. This: 1
+Entmoot. You: 1
+Bilbo. Now: 1
+Thengel, King: 1
+Dreamflower. Ah: 1
+Hobbiton. He: 1
+Black Pits: 1
+Widow Rumble: 1
+Better Smials: 1
+Great Lands: 1
+Stormcrow? Tell: 1
+Hill. Frodo: 1
+Gorbadoc: 1
+Curtain: 1
+Silvan Elves: 1
+Elf. But: 1
+Mordor Sam: 1
+Mad: 1
+Haunted: 1
+Boffins. Outside: 1
+Smials. Anyone: 1
+Ents. But: 1
+Dunharrow. But: 1
+Shire. We: 1
+Elvish Folk: 1
+Prologue: 1
+Sale: 1
+Coomb. Then: 1
+Tarlang: 1
+Bolgers, Hornblowers: 1
+West. And: 1
+Thainship: 1
+King. Merry: 1
+Fire. Even: 1
+Mark, Thjoden: 1
+Citadel. Step: 1
+Smjagol. Poor: 1
+Guard! This: 1
+Speech: 1
+Lockholes. They: 1
+Last Shore: 1
+Elrond. All: 1
+Rock. Together: 1
+Stewardship: 1
+Ring! Is: 1
+Fire. Ever: 1
+Bilbo. That: 1
+Messengers: 1
+Hedge. After: 1
+Sam. As: 1
+Fatty! At: 1
+Westfold. But: 1
+East. Yet: 1
+Outside: 1
+Axe: 1
+Your Magnificence: 1
+Bucklebury. Not: 1
+King! Farewell: 1
+Western Lands: 1
+Thjoden. He: 1
+Gimli. The: 1
+Nine Companions: 1
+Saruman. He: 1
+City. He: 1
+Tower. Down: 1
+Sleeping: 1
+Forgoil! Death: 1
+Despair: 1
+Thranduil! Too: 1
+Sword Reforged: 1
+Three. But: 1
+Bree. They: 1
+Mark. He: 1
+Causeway, Merry: 1
+Elrond. Frodo: 1
+Dwarves. They: 1
+Seven Rivers: 1
+Mountain. From: 1
+Frodo. When: 1
+Strider. He: 1
+Whitwell: 1
+At: 1
+Ring. Though: 1
+River! Ride: 1
+Guarded City: 1
+Jomer King: 1
+Fairbairns, Wardens: 1
+Moria. Speak: 1
+Bywater. But: 1
+Telperion: 1
+Winter. We: 1
+Lobelia. Poor: 1
+Great Jewel: 1
+Elendil! Elendil: 1
+Pinnath: 1
+Men! Smjagol: 1
+Isengard. Partly: 1
+South. Your: 1
+Farewell: 1
+Three Purposes: 1
+Battle Plain: 1
+Tower. Though: 1
+Iron: 1
+One Enemy: 1
+Sun. Fire: 1
+Pippin! What: 1
+Gandalf. Come: 1
+Moneybags: 1
+Mountains. Not: 1
+Nameless. Some: 1
+Throne. Nearer: 1
+Carrock. But: 1
+Nardol: 1
+Imladris. Elrond: 1
+Underharrow: 1
+April. It: 1
+Vale. That: 1
+Captain Shagrat: 1
+Emyn Arnen: 1
+Ring, Frodo: 1
+Healing. And: 1
+Pippin. Sam: 1
+Entwash. And: 1
+East. Not: 1
+Aragorn. Presently: 1
+Ambaruna: 1
+Thjoden. Five: 1
+East Where: 1
+Gondor. Had: 1
+Earth: 1
+Hobbiton. Sam: 1
+Meriadoc Brandybuck: 1
+Aragorn. Pippin: 1
+Glamdring, Foe: 1
+Riders. But: 1
+Town Hole: 1
+Fallen: 1
+Mortals: 1
+Mark. So: 1
+Fangorn. Slowly: 1
+Ring. This: 1
+Smaug. One: 1
+Citadel. Yet: 1
+News! Tell: 1
+Realm! Behold: 1
+Enemy. They: 1
+Tom, Jolly: 1
+Pippin, Gandalf: 1
+North. Lone: 1
+Northerland: 1
+What: 1
+Arathorn. The: 1
+Gandalf. You: 1
+Westernesse. It: 1
+East. Such: 1
+Bird: 1
+Land Beyond: 1
+Gollum! Snakes: 1
+Black One: 1
+Ivy Bush: 1
+Arod Legolas: 1
+Aragorn. Stooping: 1
+Mark. The: 1
+Borgil: 1
+Strawheads! Death: 1
+South. Before: 1
+Pippin? They: 1
+Writer: 1
+Ted. There: 1
+Secret Fire: 1
+Mordor, Sam: 1
+River Withywindle: 1
+Saruman! Remember: 1
+Wandering: 1
+Wall. If: 1
+Balin. Long: 1
+Elephants: 1
+Morning. And: 1
+Gondor. Now: 1
+Weathertop. While: 1
+Arwen Evenstar: 1
+Gandalf. His: 1
+Wormtongue. Though: 1
+Morning: 1
+Bree. And: 1
+Southfarthing. It: 1
+Smjagol. Dust: 1
+Black Master: 1
+Rohan. Do: 1
+Tom. It: 1
+Ringlu: 1
+Names: 1
+Anurien. The: 1
+Bilbo. Frodo: 1
+Smjagol! What: 1
+Short Rest: 1
+Ents! Until: 1
+Sam. Their: 1
+Tunnelly: 1
+Mark? Alas: 1
+Belladonna: 1
+Shirefolk: 1
+Years! Speed: 1
+Elrond. It: 1
+House. Again: 1
+Silmarils: 1
+Moon. The: 1
+Written: 1
+Hador: 1
+Rory Brandybuck: 1
+Folco Boffin: 1
+Edain: 1
+Frodo, Merry: 1
+Arnach: 1
+Rivendell. There: 1
+Boromir! It: 1
+Shire: We: 1
+Bree. Even: 1
+Boromir? Why: 1
+Frjawine: 1
+Legolas. That: 1
+Orcs. Maybe: 1
+Free Fair: 1
+Gondor, Steward: 1
+Fell Riders: 1
+Erui: 1
+Gimli. But: 1
+Shadow, Peregrin: 1
+Gracious: 1
+Rushlight: 1
+Shirriffs Frodo: 1
+Azog: 1
+Reunited Kingdom: 1
+Morgai. With: 1
+Gate! Farewell: 1
+Moria. Those: 1
+City. Welcome: 1
+Moria. Will: 1
+Butterbur. Only: 1
+North? We: 1
+Treebeard? We: 1
+Grey Host: 1
+Mount Fang: 1
+Wizards: Wizards: 1
+Dior: 1
+Boom: 1
+Dior Thingol: 1
+Causeway. Together: 1
+Great Siege: 1
+Ancient: 1
+Meduseld. Many: 1
+Lockholes. One: 1
+Authorities: 1
+Tower Hall: 1
+Wargs. Gandalf: 1
+Gaffer! Are: 1
+Imlad: 1
+Odo Proudfoot: 1
+Endless Stair: 1
+Still: 1
+Second Gate: 1
+Gate? Dwarves: 1
+Ufthak? We: 1
+Arwen Undumiel: 1
+Smials: 1
+Frodo. Bilbo: 1
+Rohan? Maybe: 1
+Saruman. Do: 1
+Edoras. There: 1
+Time: 1
+The Lords: 1
+Mutton: 1
+Gilrain: 1
+Erkenbrand. Some: 1
+Rohan. We: 1
+Gondor. Who: 1
+Good Morning: 1
+Mount Everwhite: 1
+Old Moria: 1
+Legolas. Gimli: 1
+Inside Work: 1
+Rivendell. Elrond: 1
+Tearing: 1
+Gate. Many: 1
+Gandalf, Bilbo: 1
+Stars. Upon: 1
+Story: 1
+Boromir! But: 1
+Rings. But: 1
+Elf. He: 1
+Encircling Mountains: 1
+April. We: 1
+Waymeet. And: 1
+Frodo. Then: 1
+Adventure: 1
+Ancient Speech: 1
+Nindalf: 1
+Road. Sam: 1
+Entwash Vale: 1
+Blanco: 1
+Silvan: 1
+Mithrandir. Many: 1
+Third Ring: 1
+Wise. For: 1
+Carchost: 1
+Bilbo. Also: 1
+Sea. It: 1
+The Mountain: 1
+Second Hall: 1
+Muil. But: 1
+Sea. If: 1
+Gorgor: 1
+Gondor. When: 1
+Day, Shire: 1
+Christmas: 1
+Calaciryo: 1
+Rohan. The: 1
+Lost Isle: 1
+First Deep: 1
+Gate. Curses: 1
+Riddle Game: 1
+Dreadful? This: 1
+Master. As: 1
+Tall Men: 1
+Trespassing: 1
+Mirkwood. We: 1
+Flammifer: 1
+Pool Side: 1
+Crown: 1
+Galadhon: 1
+Celos: 1
+Isengard. Hasufel: 1
+Forest! That: 1
+Gondor. Merry: 1
+West Road: 1
+Thorin? They: 1
+Gimli Gluin: 1
+Fell Winter: 1
+Silverlode. Together: 1
+Araw: 1
+Running. The: 1
+Westfolders: 1
+Saruman. But: 1
+Sea. Here: 1
+Gate. Great: 1
+Bilbo. The: 1
+Bridge Inn: 1
+Here: 1
+Glamdring. Behind: 1
+Foreword: 1
+Hero: 1
+Dwarves. Of: 1
+Sun. Then: 1
+Edoras. Appoint: 1
+Jewel: 1
+Pippin. Frodo: 1
+Bond: 1
+Rivendell. For: 1
+Muil: 1
+Bree! What: 1
+Baggins. Bungo: 1
+Rock. And: 1
+App: 1
+Clouds: 1
+Council. On: 1
+Elves. Gimli: 1
+Tall Warden: 1
+Marigold: 1
+Jomer. But: 1
+Shire. Can: 1
+Angmar. But: 1
+Treegarth: 1
+Riddermark, Rohan: 1
+Mere: 1
+Five Hobbits: 1
+Come: 1
+Halflings! Though: 1
+Rosie, Rose: 1
+Tombs: 1
+Udyn. Go: 1
+Nameless Pass: 1
+Steward? And: 1
+Farmer: 1
+Bill. It: 1
+Entwash. They: 1
+Legolas. Can: 1
+Elessar, Isildur: 1
+Noakes: 1
+City Wall: 1
+Orcs. Even: 1
+Great House: 1
+Bain: 1
+City. For: 1
+Sea. To: 1
+Dwarrowdelf: 1
+Proudfoots. Some: 1
+Boromir. Does: 1
+Shirriffing: 1
+Entish. That: 1
+Samwise Gamgee: 1
+Dorthonion: 1
+City. My: 1
+Steward. But: 1
+House. Has: 1
+Strider. Well: 1
+Ravenhill. On: 1
+Derufin: 1
+Gluin. That: 1
+Lurien! Too: 1
+East. Far: 1
+Moria. Indeed: 1
+Eagles! The: 1
+Calacirya: 1
+Gondor. He: 1
+Dwarrowdelf. And: 1
+Dwarves. Hobbits: 1
+Gollum! Eat: 1
+Sea. Darkness: 1
+Gates. Already: 1
+All: 1
+Lampwrights: 1
+Old Noakes: 1
+Mountain, Thror: 1
+Gandalf, Gandalf: 1
+Tirith. It: 1
+Meriadoc! Yet: 1
+Anduin. The: 1
+Hornburg. Depart: 1
+July: 1
+Sea! Alas: 1
+Gandalf. Tom: 1
+Last Mountain: 1
+Lebennin. There: 1
+Fair? He: 1
+Great Willow: 1
+Mountain. At: 1
+Frodo. But: 1
+Orcs. They: 1
+Travellers: 1
+Roheryn: 1
+War. The: 1
+The Precious: 1
+The Day: 1
+Mist: 1
+Gandalf! And: 1
+Faerie: 1
+Tumbaletaurla Lumlanor: 1
+Gollum. Frodo: 1
+Stair Falls: 1
+Great? The: 1
+Elendil! The: 1
+Merry, Pippin: 1
+South Africa: 1
+Elf, Legolas: 1
+Ered: 1
+Men. Far: 1
+Hornburg. Near: 1
+Entwives. We: 1
+Barliman. All: 1
+Healers: 1
+Ring? The: 1
+Rider! Gandalf: 1
+Men? That: 1
+Chief Shirriff: 1
+Galadriel. For: 1
+Grip: 1
+Holdwine: 1
+Frodo! You: 1
+Tirith. Few: 1
+Rauros. There: 1
+Ring, Isildur: 1
+Bridge. The: 1
+Dimholt. There: 1
+Celeborn. Her: 1
+Elder People: 1
+Forest. Then: 1
+Boromir. In: 1
+Gladden River: 1
+Nicotiana: 1
+Sam. They: 1
+Gimli. Then: 1
+Telcontar: 1
+Saruman. As: 1
+Fangorn. Thus: 1
+Mordor. Darkness: 1
+Bilbo. Just: 1
+Denethor. And: 1
+Old Toby: 1
+Bruinen. But: 1
+Shadowfax. Your: 1
+Blue Mountains: 1
+New Moon: 1
+Happy Returns: 1
+News: 1
+Mordor. Why: 1
+Iron Crown: 1
+Four: 1
+Valandil: 1
+Flourdumpling: 1
+Pippin. But: 1
+Mymak: 1
+January: 1
+Pip: 1
+Gondor, Gondor: 1
+Denethor, Lord: 1
+Two Watchers: 1
+River. That: 1
+War. But: 1
+Man, Aragorn: 1
+Baggins. All: 1
+Pelennor. Then: 1
+Bree! That: 1
+Beregond Faramir: 1
+Hobbiton. And: 1
+Westmarch. That: 1
+Barrow. At: 1
+Mr. Invisible: 1
+Pippin. Strider: 1
+South. Some: 1
+Wandlimb: 1
+Orcses. Nice: 1
+Pippin Took: 1
+Healers. But: 1
+Brandywine. If: 1
+Gandalf. What: 1
+North, Riders: 1
+Mordor. It: 1
+Denethor? But: 1
+Smallburrow: 1
+Thengel. Never: 1
+Book Five: 1
+Valandil Isildur: 1
+Burrowses, Bolgers: 1
+Dominion: 1
+Bamfurlong: 1
+North. They: 1
+December. The: 1
+Ithilien. For: 1
+Internet: 1
+Black Wings: 1
+South. The: 1
+Falls. They: 1
+Howe: 1
+So: 1
+Tauremorna: 1
+End. And: 1
+Thorin Thrain: 1
+King Bard: 1
+Barrow. That: 1
+Horsemen: 1
+Mirkwood. As: 1
+Orodruin. All: 1
+Khand. Southrons: 1
+Ring! He: 1
+Quest? Little: 1
+Fili So: 1
+Diary. My: 1
+Cormallen. And: 1
+Kindler, Varda: 1
+Rose. Half: 1
+Rangers. Haven: 1
+Company. For: 1
+Mordor. These: 1
+Chief. It: 1
+Men? Would: 1
+Place: 1
+Rowlie Appledore: 1
+Thorin Was: 1
+Orcs. Poor: 1
+West. Some: 1
+Elves. It: 1
+Stone. And: 1
+Gladden: 1
+Nbli: 1
+Bilbo, Frodo: 1
+Rory: 1
+The Ivy: 1
+Valimar: 1
+Ring. It: 1
+Tower. As: 1
+Ent. You: 1
+Bp: 1
+One. The: 1
+Mithrandir. Presently: 1
+Little: 1
+South. But: 1
+Bane. Of: 1
+Lurien! The: 1
+Underworld: 1
+Thjoden, King: 1
+Feast. But: 1
+Precious. We: 1
+Sauron. It: 1
+Moria. Behold: 1
+Tirith. They: 1
+Harrowdale. Merry: 1
+Grnma! Always: 1
+Gollum. Only: 1
+Remmirath: 1
+Gate. Let: 1
+Mindolluin. It: 1
+Unseen: 1
+Boromir? The: 1
+Museum: 1
+Elfstone, Elessar: 1
+North. For: 1
+Forest. In: 1
+Dwalin. They: 1
+Moria! It: 1
+Doorward: 1
+Brownlock: 1
+Muzgash: 1
+Lord. Refuse: 1
+Great Bridge: 1
+Beer: 1
+Halfling. These: 1
+Shire. Bill: 1
+Westfold. Down: 1
+Expert Treasure: 1
+Bombur! May: 1
+Goodbodies: 1
+Rhosgobel: 1
+Mr. Boffin: 1
+Pippin. It: 1
+Imloth Melui: 1
+Stock. But: 1
+Tauremornaluml: 1
+Grey Wood: 1
+Gollum. Laying: 1
+Bunce: 1
+Baggins. And: 1
+Ancalima: 1
+Gate Erkenbrand: 1
+King? Will: 1
+Rings. Yes: 1
+Ben: 1
+Dwarves. This: 1
+Gollum, Frodo: 1
+Fengel: 1
+Mindolluin. Shadow: 1
+Up. First: 1
+City, Merry: 1
+Orkish: 1
+Frying: 1
+Rose Cotton: 1
+Pippin. So: 1
+Kill: 1
+Gondor, Riders: 1
+Tra: 1
+Springle: 1
+Ship: 1
+Jomer. The: 1
+Prancing Pony: 1
+Gold: 1
+Golf: 1
+Dunharrow. One: 1
+Council. His: 1
+East. Still: 1
+Glorfindel. He: 1
+Samwise. But: 1
+Mr. Pippin: 1
+Tookland: 1
+Ranger. No: 1
+Water. My: 1
+Elrond. But: 1
+Elendil, Aiglos: 1
+Eorl! Foes: 1
+Gluin. Far: 1
+Haysend: 1
+Varda: 1
+Wise. Your: 1
+Mrs. Maggot: 1
+Merry. Then: 1
+King! The: 1
+Gandalf. And: 1
+Faramir, Steward: 1
+Lake Evendim: 1
+Calembel: 1
+Enemy! For: 1
+Gljowine: 1
+Frodo. Beside: 1
+Nimbrethil: 1
+South Road: 1
+Gandalf? In: 1
+Wain: 1
+Wraiths. Lord: 1
+Sun. Suddenly: 1
+Banks: 1
+Rohan. In: 1
+Gondor. For: 1
+Took. Wiser: 1
+Men. There: 1
+Great Danger: 1
+Brandywine. He: 1
+Men. Legolas: 1
+Rohan. It: 1
+Frodo, Pippin: 1
+Mountain, Erebor: 1
+Pickthorn: 1
+Flame: 1
+Hold. The: 1
+King, Thjoden: 1
+Year One: 1
+Quest. Ours: 1
+Eldest: 1
+Downs. They: 1
+Eilenach: 1
+Eorlingas! Fear: 1
+Gandalf. Thursday: 1
+Gollum. They: 1
+Odo: 1
+Harad. And: 1
+Shipwright. There: 1
+Hirluin: 1
+Samwise Hamfast: 1
+Gluin! Maybe: 1
+Gblmud: 1
+Celeborn, Lord: 1
+Pimply Face: 1
+Hollen: 1
+Warden. If: 1
+Rohirrim. Who: 1
+Oldbuck: 1
+Party. Hence: 1
+Master Bombadil: 1
+Rohan. She: 1
+East Dales: 1
+Golasgil: 1
+Master. Go: 1
+Arnen: 1
+Jowyn. She: 1
+Prancing: 1
+Neldoreth: 1
+Big Bosses: 1
+Gebir: 1
+Gamgee. Both: 1
+Book Four: 1
+Lower Halls: 1
+Ringlord: 1
+Wednesday. Yesterday: 1
+Berhael, Conin: 1
+Hardbottle: 1
+Thorn: 1
+Balin. Frodo: 1
+Great Horn: 1
+Meneldil: 1
+Goldilocks: 1
+Contents: 1
+Singing Gold: 1
+Elf. Glorfindel: 1
+Enemy. And: 1
+Gwaihir. And: 1
+Hunter: 1
+Wandering Companies: 1
+Rohirrim. Let: 1
+Took! Where: 1
+Rivendell. Come: 1
+Messenger Service: 1
+White Face: 1
+Morgai. And: 1
+Bombur. Bombur: 1
+There: 1
+Frodo, Frodo: 1
+Mrs: 1
+Thief: 1
+Bagginses. All: 1
+City, Beregond: 1
+Osgiliath. They: 1
+Attercop: 1
+As: 1
+Moria. Even: 1
+Hay Gate: 1
+Grey Fool: 1
+Uttermost: 1
+No: 1
+Meriadoc? Just: 1
+Halfelven: 1
+Orcs. If: 1
+Mountain! Dreadful: 1
+Sam. Bill: 1
+Sancho: 1
+Djagol: 1
+Floating Log: 1
+Deep! Go: 1
+Everard Took: 1
+Gandalf. Three: 1
+Walda: 1
+Orc. Blood: 1
+Sneak? What: 1
+Harvest: 1
+Hirgon. Ride: 1
+Rohirrim. He: 1
+Precious Gollum: 1
+Gollum. And: 1
+Maggots: 1
+Angbor, Lord: 1
+Forest! But: 1
+Hill Road: 1
+Bundushathyr: 1
+Durin, Lord: 1
+Old Gondor: 1
+Trolls? They: 1
+Shire. Not: 1
+Pippin. To: 1
+One. It: 1
+Mordor. That: 1
+Ents. Few: 1
+Mark. In: 1
+Southern Mirkwood: 1
+Gandalf. Two: 1
+North. Yet: 1
+Shire, Michel: 1
+Rosie. There: 1
+Entmaidens: 1
+Questioner: 1
+Strider. It: 1
+Willie Banks: 1
+Tookishness: 1
+Anduin. Yet: 1
+Hasufel. Before: 1
+Ships: 1
+Saruman? He: 1
+Dark Days: 1
+Mark. And: 1
+Company. And: 1
+Mountains. In: 1
+Gandalf. Hastily: 1
+South. For: 1
+Master. No: 1
+Younger Days: 1
+Shagrat. He: 1
+Ungoliant: 1
+Blessed: 1
+Farthing: 1
+Mountain. Out: 1
+Doors: 1
+Rohirrim. It: 1
+Dunland. The: 1
+Dale, Frodo: 1
+Duinhir: 1
+Stone. It: 1
+Wight: 1
+Haysend. We: 1
+Strider. There: 1
+Gandalf. Though: 1
+Findegil: 1
+Middle Men: 1
+Frodo? Let: 1
+Fallen King: 1
+Thain Peregrin: 1
+Mordor? Or: 1
+Mister Baggins: 1
+Sleepless Dead: 1
+Pine: 1
+Thursday, Sam: 1
+Frodo. Gollum: 1
+Lodgings: 1
+Nob. He: 1
+Old Winyards: 1
+Men. They: 1
+Hen: 1
+Log: 1
+Bandobras: 1
+West Marches: 1
+Northlands: 1
+Greenleaf: 1
+Kili, Thorin: 1
+Gollum. By: 1
+Deep. It: 1
+Grond: 1
+Gandalf. Let: 1
+Gaffer Gamgee: 1
+Jolly: 1
+Gates. It: 1
+Then: 1
+Bane. You: 1
+Council. But: 1
+Bridge. Half: 1
+Houses. They: 1
+Prince. And: 1
+Dragons: 1
+Sam, Gollum: 1
+Sam. Just: 1
+Seventh: 1
+Shire. Have: 1
+Sorcery. Then: 1
+Periannath: 1
+Entwash. The: 1
+Stock Road: 1
+Silver: 1
+West, And: 1
+Beren One: 1
+Moon, East: 1
+Great Battle: 1
+September. As: 1
+Arwen. To: 1
+Deep! Happy: 1
+Legolas. Frodo: 1
+Prince. Now: 1
+Thursday, September: 1
+Smjagol. Orcs: 1
+Third Deep: 1
+Base Master: 1
+Nick: 1
+Bun: 1
+Warm Welcome: 1
+Kili! May: 1
+Southward: 1
+Mordor. Very: 1
+Lothlurien. Believe: 1
+Linhir: 1
+Elves. At: 1
+Thinking: 1
+Rohan. On: 1
+Revenge. Surely: 1
+North; Roheryn: 1
+River. But: 1
+Chapter Five: 1
+Ringlu Vale: 1
+City. Now: 1
+Grand: 1
+Isenmouthe. It: 1
+Tower. And: 1
+Great. Who: 1
+Road. Here: 1
+William. He: 1
+Paladin! Your: 1
+Fangorn, Master: 1
+Dori, Nori: 1
+Forts: 1
+One, Celebrimbor: 1
+High King: 1
+Galion: 1
+Saruman? Is: 1
+Buckland. Old: 1
+Balin. That: 1
+East, Aragorn: 1
+Mirror. So: 1
+Nine Fingers: 1
+Oroml: 1
+Orthanc. Then: 1
+South. Once: 1
+Of Lurien: 1
+Balin. The: 1
+Grnma! Poor: 1
+Lune. Yet: 1
+King, Ents: 1
+Thrain King: 1
+England: 1
+Orcs. He: 1
+Hornblowers: 1
+Dimholt: 1
+King. He: 1
+Overlord: 1
+Orcrist, Goblin: 1
+Galadhrim. You: 1
+Great Hall: 1
+Speech. Most: 1
+Oiolosslo: 1
+Old World: 1
+Elven Door: 1
+Hammerhand. But: 1
+Vorondil: 1
+Green Fields: 1
+Qs: 1
+Longbeards: 1
+Deep. The: 1
+Chiefest: 1
+Gollum? Small: 1
+Oliphaunt. And: 1
+Mr. Whitfoot: 1
+Company. New: 1
+Netted Stars: 1
+Our Birthday: 1
+Osgiliath, Citadel: 1
+Arathorn, Elessar: 1
+Nine. And: 1
+Northern Orcs: 1
+Kibil: 1
+Strider. Which: 1
+Kili, Bifur: 1
+Great Enemy: 1
+Naur: 1
+Mr. Meriadoc: 1
+Ithilien. On: 1
+Precious? Curse: 1
+The Floating: 1
+Dwarves, Orald: 1
+Swertings: 1
+Bolg. But: 1
+Lothlurien. Gimli: 1
+King. And: 1
+River Hoarwell: 1
+Top: 1
+Saruman. If: 1
+Dome: 1
+Thorin. He: 1
+Bert. You: 1
+Saradoc: 1
+Great Water: 1
+Carrock. There: 1
+Master. Leaves: 1
+Gandalf. It: 1
+Hobbit, Elves: 1
+Country Round: 1
+Gildor Inglorion: 1
+Gimli. Beside: 1
+Shadow. And: 1
+Annyn! Eglerio: 1
+Shire: But: 1
+Boromir. For: 1
+Hbma. Keep: 1
+Perian: 1
+Bruinen. So: 1
+Gorgoroth. Ahead: 1
+Saruman. How: 1
+Moria. Through: 1
+Rohan! But: 1
+Gandalf. Pop: 1
+Ring. How: 1
+Way: 1
+Young Tom: 1
+Gandalf. Poor: 1
+Kindred: 1
+Frja: 1
+Cirion: 1
+Mirkwood. And: 1
+Rohan. Some: 1
+Gorgoroth. Then: 1
+Elessar. For: 1
+Finglas: 1
+Mordor. All: 1
+Ham Gamgee: 1
+Sea. And: 1
+Friendship: 1
+Herugrim: 1
+Envinyatar: 1
+Isen. As: 1
+Fairs: 1
+Gaffer. In: 1
+Yes: 1
+Bandobras Took: 1
+Hornrock: 1
+Hbma. He: 1
+Ring! And: 1
+Fangorn. We: 1
+Peak: 1
+Gandalf! Well: 1
+Mordor, Sauron: 1
+Three Hunters: 1
+Men. And: 1
+Marshal, Elfhelm: 1
+Woses: 1
+Burglar Bilbo: 1
+Undergate: 1
+Dwarf. The: 1
+Sky: 1
+Isengard. There: 1
+Sunlending: 1
+Norbury: 1
+Deadmen: 1
+Mountain! His: 1
+Shipwright: 1
+Pippin. And: 1
+Puddifoots: 1
+Gilrain. And: 1
+Rulers: 1
+Anfalas: 1
+Shire. They: 1
+Strider? They: 1
+Elvendom: 1
+Gollum Bilbo: 1
+Shire. Frodo: 1
+Bardings. The: 1
+Thain. Before: 1
+Gondor; Hirgon: 1
+Elrond, Elladan: 1
+Valinorean: 1
+Beorn. He: 1
+Inland Sea: 1
+Elven Tirion: 1
+Girion. From: 1
+Brandywine. The: 1
+Thror. So: 1
+The King: 1
+Aragorn. Giving: 1
+Mountain Wall: 1
+Treachery: 1
+Rhymes: 1
+Anor. You: 1
+Orcs. Brm: 1
+Galadriel. Elrond: 1
+Rohan. But: 1
+Watchwood: 1
+Mountain! Let: 1
+Books: 1
+Elrond. The: 1
+Bombadil. His: 1
+Bucklebury. To: 1
+Elves. But: 1
+Mirkwood. Songs: 1
+Map. More: 1
+Tintalll Varda: 1
+Goodbody: 1
+King. More: 1
+Bilbo. All: 1
+After: 1
+Mountain. So: 1
+Inn, Bywater: 1
+Ossir: 1
+Saruman? What: 1
+City. At: 1
+Mauh: 1
+Biter. They: 1
+Little Folk: 1
+Weathertop, Amon: 1
+House. Will: 1
+Food: 1
+Ring. My: 1
+Fool: 1
+Enemy. Why: 1
+Gondor! Gondor: 1
+Drogo. Let: 1
+Rushey: 1
+First) Homely: 1
+Mountains. Of: 1
+Drogo. You: 1
+We: 1
+Evil Eye: 1
+Bruinen. There: 1
+Living Creatures: 1
+East Anurien: 1
+New Age: 1
+Dragon. The: 1
+Halfling. Or: 1
+Orcses: 1
+Dimrill Gate: 1
+Ring. To: 1
+Gandalf, Mithrandir: 1
+Door. On: 1
+Arkenstone! The: 1
+Gimli, Gluin: 1
+Rohan. Every: 1
+Syl: 1
+Cunning Mind: 1
+Whitfoot: 1
+Entwood. Did: 1
+Lord Elfstone: 1
+Great Barrows: 1
+Gateway: 1
+Orcs. Then: 1
+Road. No: 1
+Well: 1
+Shadowfax! He: 1
+Bane. Yet: 1
+Lothlurien, Lurien: 1
+Bush: 1
+Mirkwood. There: 1
+Aragorn? His: 1
+Company Gandalf: 1
+Captain. For: 1
+Helmingas: 1
+Living Death: 1
+Bard. He: 1
+Homely House: 1
+Gollum? Do: 1
+Gorgoroth. There: 1
+Command. How: 1
+Witch: 1
+Wise. He: 1
+Va: 1
+Elrond. Could: 1
+Book One: 1
+Shire. Nonsense: 1
+Book Three: 1
+Ring! What: 1
+Boss. Didn: 1
+Elves? Is: 1
+Huorns, Treebeard: 1
+Northerners. They: 1
+Master Legolas: 1
+Sea. Of: 1
+Great Place: 1
+Enemy. Neither: 1
+Orders: 1
+Mountains; Beorn: 1
+Upbourn: 1
+Men. That: 1
+Search: 1
+Beorn. In: 1
+High Court: 1
+Miller: 1
+Neck: 1
+Nori, Bifur: 1
+Shiretalk: 1
+Angren: 1
+Kili. Bilbo: 1
+Far: 1
+Fat: 1
+Biggest: 1
+House. Thus: 1
+Mr. Took: 1
+Boromir! Beyond: 1
+Frodo, Lord: 1
+Ring. What: 1
+Out: 1
+Ps: 1
+Osgiliath. For: 1
+Bane. Plainly: 1
+Riddle: 1
+Shire. Its: 1
+Elrohir? Less: 1
+Doorstep: 1
+Finrod. We: 1
+Bree. There: 1
+Wise People: 1
+Elendil. Now: 1
+Faramir. No: 1
+Eye. There: 1
+North March: 1
+Girion, Lord: 1
+Dwarves; Olurin: 1
+Doom? And: 1
+Esquire: 1
+Osgiliath. Now: 1
+Jomer? For: 1
+Last Desert: 1
+Men. He: 1
+Ecthelion, Lord: 1
+Ohtar: 1
+Fastred: 1
+End. They: 1
+Grimslade: 1
+Mondays. And: 1
+King Edrnur: 1
+Boromir, Man: 1
+Brandy: 1
+Frodo. Come: 1
+Bungo: 1
+Bree Hill: 1
+Mordor Frodo: 1
+Sea! The: 1
+Umbar! Look: 1
+Hollin. Much: 1
+Last Bridge: 1
+Hundred: 1
+Daeron: 1
+Quick Post: 1
+Unexpected: 1
+Halflings. It: 1
+Evereven: 1
+Dike. Thence: 1
+Holbytla. Nor: 1
+Wndfara: 1
+Boro: 1
+Treebeard, Merry: 1
+Gimli. It: 1
+Mines. They: 1
+Nine. But: 1
+Elves. While: 1
+Orophin: 1
+Disappearance: 1
+Yellow. Face: 1
+Oakenshield. You: 1
+Rivendell. But: 1
+Rock. As: 1
+Balin! He: 1
+Caras: 1
+Barrowfield: 1
+Sam? Yes: 1
+Seven Gates: 1
+Command. That: 1
+Ancient Tongue: 1
+Robin Smallburrow: 1
+Hammer: 1
+West. Seeing: 1
+Sight. In: 1
+Shadowy: 1
+Great. We: 1
+Tighfield: 1
+Gandalf. Even: 1
+Setting Sun: 1
+Gebir. But: 1
+Mirkwood. His: 1
+Return Journey: 1
+Sun. One: 1
+Ethir Anduin: 1
+Unexpected Journey: 1
+Evening: 1
+Baggins. The: 1
+Strider. Goes: 1
+Denethor. It: 1
+Merry. Wild: 1
+Gandalf. Candles: 1
+Bonfire Glade: 1
+Stairs. And: 1
+Northern Mirkwood: 1
+Underhill. Mind: 1
+Denethor. Yet: 1
+Angrenost: 1
+Cottons. They: 1
+Rangers. At: 1
+Withywindle. Old: 1
+Death: 1
+Edrello Endorenna: 1
+Jowyn Lady: 1
+Power? He: 1
+Bold? For: 1
+Glittering: 1
+Steward. Not: 1
+Watch. These: 1
+Choose: 1
+Fladrif: 1
+Saruman. Many: 1
+Strong, Hero: 1
+Saruman? With: 1
+West. In: 1
+Elves. The: 1
+Stonehouse: 1
+Magnificent: 1
+Her. Nar: 1
+Twelfth Steward: 1
+Saruman. The: 1
+Mordor. Some: 1
+Ring. That: 1
+West. It: 1
+Min: 1
+Moon! Dark: 1
+Ring. Was: 1
+Anurien. And: 1
+High Sea: 1
+Saruman! It: 1
+City Gate: 1
+Simple! Radagast: 1
+Bane. Forgive: 1
+Elves. We: 1
+Midsummer. As: 1
+West! Stand: 1
+Frodo. We: 1
+Northern Lands: 1
+East. Then: 1
+Lockholes. The: 1
+Gamgee! So: 1
+East. Again: 1
+Arvernien: 1
+Ferry. That: 1
+East. They: 1
+Lurien! Galadriel: 1
+Narchost: 1
+Morthond. The: 1
+Carn Dym: 1
+Oldbucks: 1
+Rohan. At: 1
+Lands: 1
+Great Shelf: 1
+Rivendell. Frodo: 1
+Moria. Your: 1
+Eye. Verily: 1
+Caradhras. Its: 1
+Blue. There: 1
+Sauron. But: 1
+Gardens: 1
+Reckoning: 1
+Bearer? How: 1
+Boromir! Now: 1
+Elrond. Sometimes: 1
+Ring. Neither: 1
+Boromir! The: 1
+Downs. Nothing: 1
+Jomund, Third: 1
+Huggins: 1
+Elentbri: 1
+Job: 1
+Mountain. The: 1
+Pillars: 1
+Took. Far: 1
+Isengard, Gandalf: 1
+Stairs. Double: 1
+Nazgyl. And: 1
+Entwash. We: 1
+Boss. And: 1
+Fords. Legolas: 1
+Dark Door: 1
+Inside. It: 1
+Bumpkin: 1
+Halflings. But: 1
+Dark Country: 1
+Fangorn. That: 1
+Swarthy: 1
+Saruman. Evidently: 1
+Osgiliath. Will: 1
+Gaffer. He: 1
+Shadowfax. In: 1
+Sunset, Henneth: 1
+Cruel: 1
+Malbeth: 1
+Fangorn. There: 1
+Entmaiden: 1
+Eye. But: 1
+Gates. This: 1
+Battle Pit: 1
+Lurien. He: 1
+Stoors. Even: 1
+East. Night: 1
+Ferry. The: 1
+Eastlands: 1
+Goldenhaired: 1
+Bilbo. And: 1
+Lady. All: 1
+Pippin. His: 1
+Three. What: 1
+Dernhelm. But: 1
+Free Peoples: 1
+Merry. Sam: 1
+White Horse: 1
+Harlond. There: 1
+Baggins. Nob: 1
+Dead Faces: 1
+Gondor. There: 1
+Fire. Out: 1
+North. You: 1
+Guard. And: 1
+Lord Smaug: 1
+Aragorn. In: 1
+Bucklebury? And: 1
+Andros. The: 1
+Downs. But: 1
+Jomer. Do: 1
+Thjoden. Even: 1
+Mines. How: 1
+Captains Meriadoc: 1
+Mountain. How: 1
+Edoras. And: 1
+Houses Faramir: 1
+Firefoot: 1
+Gollum. His: 1
+Impenetrable. What: 1
+Tumladen: 1
+Isildur! Your: 1
+Entwood. There: 1
+Sam! It: 1
+Hill. For: 1
+Birthday Party: 1
+Tirith. First: 1
+Snow: 1
+Elvish, Entish: 1
+Northern World: 1
+Guldur. Those: 1
+Shadowfax. He: 1
+Hither Shores: 1
+Otherworld: 1
+Ruler: 1
+Trees: 1
+Stonebows: 1
+Gondor. Sharpen: 1
+Wight! Vanish: 1
+Middle Peoples: 1
+Thjoden. And: 1
+Elves, Dwarves: 1
+South Incbnus: 1
+Queen Ber: 1
+Jomer? Tell: 1
+Riders. Is: 1
+Doom? For: 1
+Mithrandir. Do: 1
+Halflings! Praise: 1
+Riders. It: 1
+Seven Stars: 1
+Shore: 1
+Hoarwell. In: 1
+Gollums: 1
+Morthond Vale: 1
+Mark! How: 1
+Breeland: 1
+Rohan. When: 1
+Thorin! Part: 1
+Sam. Behind: 1
+Spear: 1
+Bard. The: 1
+Treebeard. Then: 1
+Men! But: 1
+Baldor. But: 1
+Old Guesthouse: 1
+Mountain. Looking: 1
+Entish! But: 1
+Scary: 1
+Sam. Even: 1
+Under Hill: 1
+Gollum. Gollum: 1
+Mountain. He: 1
+Saruman. There: 1
+Master Pippin: 1
+Burrowses: 1
+Big: 1
+Flui: 1
+Grnma. Grnma: 1
+Saruman. So: 1
+Elder King: 1
+Woodmen: 1
+Excitement: 1
+Tookland. No: 1
+Three Kindreds: 1
+Dain. Not: 1
+Shriekers: 1
+Shelob. She: 1
+Ford. On: 1
+High. We: 1
+Treebeard. As: 1
+Udyn. Some: 1
+Entwood: 1
+Pelennor. Courage: 1
+Gorgoroth. And: 1
+Hills: 1
+River. Here: 1
+Hobbiton. So: 1
+Entwives. Come: 1
+River Bruinen: 1
+Lieutenant: 1
+Legolas. His: 1
+Master Gimli: 1
+White. Gandalf: 1
+Irensaga: 1
+Fourth Age: 1
+Morannon. They: 1
+Dnnen. And: 1
+Lothlurien. There: 1
+Elves. Indeed: 1
+Bardings: 1
+Mirkwood. That: 1
+Silver Crown: 1
+Tower. They: 1
+Master Wormtongue: 1
+Records: 1
+Bree. It: 1
+Queen. And: 1
+Isengard. We: 1
+Angle: 1
+Nazgyl. To: 1
+Lay: 1
+Merry. Merry: 1
+Lithe: 1
+Great Wars: 1
+Warrior: 1
+North. Only: 1
+Gandalf He: 1
+Mark. Hark: 1
+Wormtongue. It: 1
+Wormtongue. In: 1
+Balin Lord: 1
+Periain: 1
+Sam! Then: 1
+Drogo. Few: 1
+Aragorn, Gimli: 1
+King. None: 1
+Jowyn. They: 1
+Edoras. He: 1
+November: 1
+Healer: 1
+Bilbo? He: 1
+Rivendell. When: 1
+Isengard. In: 1
